@@ -1,0 +1,26 @@
+Success: 1/1(100)
+Failure: 0/1(0)
+Success: 1/2(0)
+Failure: 1/2(0)
+Success: 1/3(0)
+Failure: 2/3(0)
+Success: 1/4(0)
+Failure: 3/4(0)
+Success: 1/5(0)
+Failure: 4/5(0)
+Despair|Rare|6|ATK+15|CRIDmg +3%|DEF+5%|CRIRate +5%|None|None--sell rune
+Success: 2/6(0)
+Failure: 4/6(0)
+Success: 2/7(0)
+Failure: 5/7(0)
+Success: 2/8(0)
+Failure: 6/8(0)
+Despair|Rare|5|HP+360|Accuracy+8%|ATK+13|CRIRate +4%|None|None--sell rune
+Success: 3/9(0)
+Failure: 6/9(0)
+Blade|Rare|3|DEF+15|None|HP+254|DEF+7%|None|None--sell rune
+Success: 4/10(0)
+Failure: 6/10(0)
+Blade|Hero|2|HP 270|None|ATK+5%|SPD+3|DEF+5%|None--sell rune
+Success: 5/11(0)
+Failure: 6/11(0)

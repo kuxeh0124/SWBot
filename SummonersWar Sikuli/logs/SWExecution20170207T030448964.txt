@@ -1,0 +1,3 @@
+tnaureRune (1) 
+ Legena|HP+270|||CRIDrng +b%||bPU+5||AlK+7%||DEF+596
+Can't Identify|Legend|1|HP+270|None|CRIDmg +b%|bPU+5|AlK+7%|DEF+5%--get rune

@@ -1,0 +1,96 @@
+Fatal|Rare|4|CRIDmg +8%|T|HP+5%|ATK+10|None|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Success: 2/2(100)
+Failure: 0/2(0)
+Despair|Rare|6|HP+270|Accuracy+4%|CRIRate +5%|Resistance+4%|None|None--sell rune
+Success: 3/3(100)
+Failure: 0/3(0)
+Energy|Rare|3|DEF+22|None|Accuracy+4%|Resistance+8%|None|None--sell rune
+Success: 4/4(100)
+Failure: 0/4(0)
+Blade|Legend|2|ATK+8%|Resistance+5%|SPD+4|7% Accuracy|CRIDmg +4%|HP+4%--get rune
+Success: 5/5(100)
+Failure: 0/5(0)
+Blade|Rare|1|ATK+15|HP+109|SPD+5|CRIDmg +3%|None|None--sell rune
+Success: 6/6(100)
+Failure: 0/6(0)
+Fatal|Rare|1|HP+8%|SPD+3|7% .1.|ATK+12|None|None--sell rune
+Success: 7/7(100)
+Failure: 0/7(0)
+Success: 7/8(0)
+Failure: 1/8(0)
+Swift|Hero|5|HP+270|DEF+4%|SPD+3|3% Accuracy  +'.'J|HP+4%|None--sell rune
+Success: 8/9(0)
+Failure: 1/9(0)
+Success: 8/10(0)
+Failure: 2/10(0)
+Success: 8/11(0)
+Failure: 3/11(0)
+Despair|Rare|4|ATK+8%|None|DEF+9|HP+138|None|None--sell rune
+Success: 9/12(0)
+Failure: 3/12(0)
+Despair|Hero|5|HP+360|None|CRIRate +5%|CRIDmg +4%|ATK+13|None--sell rune
+Energy Refill
+Success: 10/13(0)
+Failure: 3/13(0)
+Success: 11/14(0)
+Failure: 3/14(0)
+Blade|Hero|4|HP+8%|SPD+5|DEF+10|Accuracy+4%|ATK 7%|None--sell rune
+Success: 12/15(0)
+Failure: 3/15(0)
+Fatal|Rare|2|HP+270|None|5% .1.|DEF+9|None|None--sell rune
+Success: 13/16(0)
+Failure: 3/16(0)
+Swift|Rare|3|HP+270|CRIDmg +|DEF+4%|ATK+7%|None|None--sell rune
+Success: 14/17(0)
+Failure: 3/17(0)
+Energy|Rare|1|ATK+15|CRIDmg +|HP+139|3% Accuracy  +'.'J|None|None--sell rune
+Success: 15/18(0)
+Failure: 3/18(0)
+Success: 16/19(0)
+Failure: 3/19(0)
+Blade|Rare|2|HP+8%|DEF+4%|Accuracy+4%|SPD+3|None|None--sell rune
+Success: 17/20(0)
+Failure: 3/20(0)
+Swift|Hero|2|ATK+8%|HP+290|HP+6%|Resistance+3%|DEF+10|None--sell rune
+Success: 18/21(0)
+Failure: 3/21(0)
+Energy|Rare|1|ATK+15|HP+166|ATK+5%  +|5% Accuracy|None|None--sell rune
+Success: 19/22(0)
+Failure: 3/22(0)
+Despair|Rare|2|HP+8%|Accuracy+6%|ATK+8|ATK+5%|None|None--sell rune
+Success: 20/23(0)
+Failure: 3/23(0)
+Success: 21/24(0)
+Failure: 3/24(0)
+Swift|Rare|1|ATK+22|CRIDmg +4%|SPD+5|HP 167|None|None--sell rune
+Success: 22/25(0)
+Failure: 3/25(0)
+Energy|Rare|2|ATK+15|CRIDmg +|DEF+11|Resistance+3%|None|None--sell rune
+Energy Refill
+Success: 23/26(0)
+Failure: 3/26(0)
+Fatal|Rare|1|ATK+15|None|SPD+5|HP+5%|None|None--sell rune
+Success: 24/27(0)
+Failure: 3/27(0)
+Energy|Rare|5|HP+270|DEF+5%|SPD+4|CRIRate  5%|None|None--sell rune
+Success: 25/28(0)
+Failure: 3/28(0)
+Success: 26/29(0)
+Failure: 3/29(0)
+Despair|Rare|5|HP+270|ATK 13  +'I'J|SPD+3|DEF+4%|None|None--sell rune
+Success: 27/30(0)
+Failure: 3/30(0)
+Success: 28/31(0)
+Failure: 3/31(0)
+Success: 28/32(0)
+Failure: 4/32(0)
+Success: 29/33(0)
+Failure: 4/33(0)
+Blade|Rare|3|DEF+15|None|Accuracy+4%|CRIRate +4%|None|None--sell rune
+Success: 30/34(0)
+Failure: 4/34(0)
+Fatal|Rare|4|ATK+15|HP+281|Resistance+4%  3-I-A|CRIRate  3%|None|None--sell rune
+Success: 31/35(0)
+Failure: 4/35(0)

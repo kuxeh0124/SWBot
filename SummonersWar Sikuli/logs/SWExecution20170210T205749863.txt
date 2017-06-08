@@ -1,0 +1,9 @@
+Rage|Rare|1|ATK+15|None|Resistance+7%  n..L|HP+6%|None|None--sell rune
+Rage|Rare|4|CRIDmg +8%|None|Accuracy+6%|HP+6%|None|None--sell rune
+Despair|Rare|2|DEF+8%|ATK ‘I0  _.L|SPD+3|Resistance+4%|None|None--sell rune
+Blade|Rare|1|ATK+22|None|7% ATK  +|HP 7%|None|None--sell rune
+Energy|Hero|1|ATK+15|None|SPD+5|CRIDmg +4%|HP+266|None--sell rune
+Energy Refill
+Blade|Hero|4|CRIDmg +8%|Resistance+4%|ATK+6%|5% Accuracy|CRIRate +3%|None--sell rune
+Blade|Rare|1|ATK+8%|CRIDmg +|Accuracy+6%|DEF+6%|None|None--sell rune
+Rage|Rare|6|DEF+11%|SPD+6|Resistance+7%  n..L|ATK+|None|None--sell rune

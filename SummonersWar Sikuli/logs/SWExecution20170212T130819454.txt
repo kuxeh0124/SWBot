@@ -1,0 +1,1 @@
+Revenge|Magic|1|ATK 10|None|CRIRate +3%|None|None|None--sell rune

@@ -1,0 +1,43 @@
+VampireRune (1) 
+ Hero|ATK+15|||ATK+6%||CRIRate 
+ 5%||HP+288||
+Can't Identify|Hero|1|ATK+15|None|ATK+6%|CRIRate 
+ 5%|HP+288|None--get rune
+VampireRune (5) 
+ O 
+ Am 
+ TEHBCIOUS|HP+270|HP+7%||7%
+ ATK 
+ _L||3%
+ Accuracy 
+ _L'.'J||||
+Can't Identify|Rare|5|HP+270|HP+7%|7%
+ ATK 
+ +|3%
+ Accuracy 
+ +'.'J|None|None--get rune
+Will|Rare|3|DEF+15|CRIRate +4%|Accuracy+6%|CRIDmg +3%|None|None--sell rune
+VampireRune (1) 
+ Legend|ATK+22|||ATK+8%||SPD+6||HP+167||CRIDmg 
+ D‘/I‘.
+Can't Identify|Legend|1|ATK+22|None|ATK+8%|SPD+6|HP+167|CRIDmg 
+ D‘/I‘.--get rune
+Will|Hero|3|DEF+15|DEF+6%|Resistance+5% 
+ n..L|HP
+ 193|CRIRate +4%|None--sell rune
+DestroyRune (1) 
+ Hero|ATK+22|||Accuracy+6%||HP+6%||SPD+6||
+Can't Identify|Hero|1|ATK+22|None|Accuracy+6%|HP+6%|SPD+6|None--get rune
+FerociousNemesis Rune 
+ Hero|HP+270|ATK
+ 13 
+ _L'I’J||DEF+9||CRIDmg +3%||DEF+||
+Nemesis|Hero|Can't Identify|HP+270|ATK
+ 13 
+ +'I’J|DEF+9|CRIDmg +3%|DEF+|None--get rune
+Will|Hero|1|ATK+15|None|HP+124|CRIRate 
+ 3%|Accuracv|None--sell rune
+Nemesis|Rare|1|ATK+15|Resistance+4%|ATK+41%|Accuracy+4%|None|None--sell rune
+Energy Refill
+SturdyVampire Rune (6)|ATK+15|DEF+15||CRIDmg +4%||DEF+6%||||
+Can't Identify|Rare|6|ATK+15|DEF+15|CRIDmg +4%|DEF+6%|None|None--get rune

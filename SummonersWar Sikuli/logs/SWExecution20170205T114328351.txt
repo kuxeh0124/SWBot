@@ -1,0 +1,5 @@
+Focus|Hero|1|ATK+15|ATK+5%|CRIDmg +5%|SPD+3|CRIRate +5%|None--get rune
+Guard|Rare|3|DEF+15|None|HP+267|SPD+4|None|None--sell rune
+Violent|Rare|2|ATK+15|DEF+7%|CRIDmg +3%|DEF+13|None|None--sell rune
+Success Rate: 0.0%
+Failure Rate: 0.0%

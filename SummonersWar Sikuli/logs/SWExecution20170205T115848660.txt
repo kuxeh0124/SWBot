@@ -1,0 +1,78 @@
+Violent|Hero|6|ATK+8%|None|DEF+11|ATK+10|Resistance+4%|None--sell rune
+Endure|Hero|2|SPD+5|None|7%
+ .1.|HP
+ 165|ATK
+ 5%|None--sell rune
+Energy Refill
+Shield|Rare|4|CRIDmg +11%|CRIRate +4%|Resistance+5% 
+ n..L|ATK+|None|None--sell rune
+Revenge|Rare|1|ATK+15|None|Resistance+4% 
+ 3-I-A|ATK+|None|None--sell rune
+Endure|Rare|2|DEF+8%|None|ATK+4%|CRIRate 
+ 5%|None|None--sell rune
+Focus|Rare|3|HP+270|None|DEF+14|Resistance|None|None--sell rune
+Shield|Rare|5|HP+270|None|Resistance+5% 
+ n..L|SPD+4|None|None--sell rune
+Shield|Hero|3|DEF+15|None|DEF+7%|7%
+ Accuracy|Resistance+4%|None--sell rune
+Energy Refill
+Violent|Rare|6|HP+270|None|Accuracy+4%|ATK+12|None|None--sell rune
+Endure|Rare|2|DEF+15|None|Accuracy+6%|CRIDmg +4%|None|None--sell rune
+Violent|Legend|3|DEF+15|HP+1 
+ 11.1.|Resistance+7% 
+ n..L|5%
+ Accuracy|CRIDmg +4%|SPD+4--sell rune
+Endure|Rare|3|DEF+15|None|Accuracy+6%|SPD+4|None|None--sell rune
+Revenge|Rare|2|DEF+11%|None|Resistance+4% 
+ 3-I-A|ATK+16|None|None--sell rune
+Revenge|Rare|6|ATK+15|ATK+4%|HP+7%|CRIRate +4%|None|None--sell rune
+Shield|Hero|2|DEF+8%|None|DEF+14|Resistance+3%|AccuracAccuracy+6%|None--sell rune
+Energy Refill
+Endure|Rare|5|HP+270|Resistance+5%|ATK+4%|CRIRate 
+ 3%|None|None--sell rune
+Revenge|Rare|4|HP+270|None|ATK+4%|CRIRate 
+ 3%|None|None--sell rune
+Revenge|Hero|4|DEF+15|None|SPD+4|5%
+ Accuracy|Resistance+7%|None--sell rune
+Revenge|Rare|2|DEF+8%|None|Resistance+6% 
+ n..L|HP+4%|None|None--sell rune
+Shield|Rare|3|DEF+22|None|Accuracy+6%|CRIRate +4%|None|None--sell rune
+Energy Refill
+Violent|Legend|5|HP+270|Resistance|13
+ ATK 
+ +|Accuracy+4%|HP+7%|DEF+10--sell rune
+Guard|Rare|6|Resistance+9%|None|HP+5%|DEF+7%|None|None--sell rune
+Shield|Rare|3|DEF+15|Accuracy+7%|SPD+4|CRIDmg +5%|None|None--sell rune
+Guard|Hero|3|DEF+15|None|DEF+7%|3%
+ Accuracy 
+ +'.'J|Resistance+7%|None--sell rune
+Energy Refill
+Shield|Rare|2|ATK+15|None|SPD+5|DEF+7%|None|None--sell rune
+Violent|Hero|1|ATK+15|None|Resistance+4% 
+ 3-I-A|HP+6%|CRIRate +4%|None--sell rune
+TenaciousFocus Rune 
+ Rai|HP+270|4.2
+ ‘I’:||Resistance+4% 
+ 3-I-A||CRIRate +4%||||
+Focus|Rare|Can't Identify|HP+270|4.2
+ ‘I’:|Resistance+4% 
+ 3-I-A|CRIRate +4%|None|None--get rune
+Violent|Rare|1|ATK+15|SPD+5|HP+5%|HP+98|None|None--sell rune
+Endure|Rare|3|DEF+15|None|CRIDmg +5%|Accuracy+4%|None|None--sell rune
+Revenge|Hero|2|SPD+5|None|ATK+8|HP
+ 7%|AccuracAccuracy+6%|None--sell rune
+Energy Refill
+Focus|Rare|4|ATK+8%|SPD+5|ATK+8|DEF+5%|None|None--sell rune
+Endure|Legend|5|HP+360|Accuracy+7%|SPD+6|CRIRate 
+ 5%|Resistance+6%|DEF+6%--sell rune
+Revenge|Rare|1|ATK+15|None|ATK+5% 
+ +|Resistance
+ 5%|None|None--sell rune
+Revenge|Hero|4|CRIRate +5%|None|ATK
+ 14 
+ +|ATK+|DEF+6%|None--sell rune
+Shield|Rare|2|ATK+8%|ATK+8|DEF+12|CRIRate +4%|None|None--sell rune
+Energy Refill
+Focus|Rare|6|ATK+8%|CRIRate +5%|Resistance+5% 
+ n..L|DEF+11|None|None--sell rune
+Revenge|Rare|6|DEF+8%|Accuracy+5%|ATK+4%|CRIDmg +4%|None|None--sell rune

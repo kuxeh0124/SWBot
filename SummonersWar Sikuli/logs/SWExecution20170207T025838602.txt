@@ -1,0 +1,7 @@
+FETOCIOUSShleld RUFIE (2) 
+ Ra?|DEF+8% 
+ _LOG|ATK
+ 12||Accuracy+:a%||HP+92||||
+Can't Identify|Rare|2|DEF+8%  +OG|ATK 12|Accuracy+:a%|HP+92|None|None--get rune
+Success Rate: 100.0%
+Failure Rate: 0.0%

@@ -1,0 +1,12 @@
+Shield|Rare|6|Resistance+12%|None|HP+317|DEF+|None|None--sell rune
+Shield|Rare|4|HP+270|None|ATK 15  +|DEF+4%|None|None--sell rune
+Energy Refill
+Guard|Rare|1|ATK+15|None|HP+290|CRIRate  3%|None|None--sell rune
+TenaciousGuard Rune 
+ Rai|HP+360|HP+7%||CRIDmg +4%||SPD+5||||
+Guard|Rare|Can't Identify|HP+360|HP+7%|CRIDmg +4%|SPD+5|None|None--get rune
+Guard|Legend|3|DEF+15|None|HP+118|5% Accuracy|SPD+4|Resistance+4%--sell rune
+Revenge|Rare|5|HP+270|ATK+9|Resistance+4%  3-I-A|Accuracy+4%|None|None--sell rune
+Energy Refill
+Focus|Rare|1|CRIRate +5%|None|ATK+5%  +|ATK+11|None|None--sell rune
+Endure|Rare|5|HP+270|None|HP+5%|CRIDmg +5%|None|None--sell rune

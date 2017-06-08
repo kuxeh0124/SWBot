@@ -1,0 +1,71 @@
+Success: 1/1(100)
+Failure: 0/1(0)
+Vampire|Rare|4|Rare CRI Dmg +8%|None|HP+161|SPD+5|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)
+Nemesis|Rare|5|Rare HP +270|None|Accuracy+4%|ATK+5%|None|None--sell rune
+Success: 3/3(100)
+Failure: 0/3(0)
+Success: 4/4(100)
+Failure: 0/4(0)
+Destroy|Rare|5|Rare HP +270|None|SPD+3|CRIRate  5%|None|None--sell rune
+Success: 5/5(100)
+Failure: 0/5(0)
+Destroy|Rare|3|Rare DEF +15|None|7% .1.|CRIRate  5%|None|None--sell rune
+Success: 6/6(100)
+Failure: 0/6(0)
+Wil|Rune (3)|Rare
+ DEF +15|||HP+170||DEF+7%||||
+Can't Identify|Rare|3|Rare DEF +15|None|HP+170|DEF+7%|None|None--get rune
+Success: 7/7(100)
+Failure: 0/7(0)
+Success: 8/8(100)
+Failure: 0/8(0)
+Success: 9/9(100)
+Failure: 0/9(0)
+QuickWill Rune (S)|HP+360|SPD+6||ATK+5% 
+ _L||7%
+ Accuracy||DEF+16||
+Will|Hero|Can't Identify|HP+360|SPD+6|ATK+5%  +|7% Accuracy|DEF+16|None--get rune
+Success: 10/10(100)
+Failure: 0/10(0)
+Vampire|Rare|6|Rare DEF +8%|None|Resistance+5%  n..L|HP 7%|None|None--sell rune
+Success: 11/11(100)
+Failure: 0/11(0)
+Strong
+ Destrov F 
+ / Rune (1)|Rare
+ ATK +15|HP+299||CRIDmg +5%||HP
+ 7%||||
+Can't Identify|Rare|1|Rare ATK +15|HP+299|CRIDmg +5%|HP 7%|None|None--get rune
+Success: 12/12(100)
+Failure: 0/12(0)
+Rage|Rare|2|Rare DEF +15|ATK 13  +'I'J|HP+5%|Resistance+3%|None|None--sell rune
+Energy Refill
+Success: 13/13(100)
+Failure: 0/13(0)
+Destroy|Rare|4|Rare HP+11%|CRIDmg +|DEF+13|SPD+4|None|None--get rune
+Success: 14/14(100)
+Failure: 0/14(0)
+Rage|Rare|6|Rare HP +270|CRIRate +4%|DEF+7%|DEF+14|None|None--sell rune
+Success: 15/15(100)
+Failure: 0/15(0)
+Success: 16/16(100)
+Failure: 0/16(0)
+Nemesis|Rare|1|Rare ATK +15|None|ATK+6%|CRIDmg +5%|None|None--sell rune
+Success: 17/17(100)
+Failure: 0/17(0)
+Destroy|Rare|2|Rare DEF +8%|None|HP+278|Accuracy+4%|None|None--sell rune
+Success: 18/18(100)
+Failure: 0/18(0)
+Success: 19/19(100)
+Failure: 0/19(0)
+Rage|Rare|5|Rare HP +270|DEF+4%|SPD+3|ATK+11|None|None--sell rune
+Success: 20/20(100)
+Failure: 0/20(0)
+Nemesis|Hero|4|CRIRate +7%|None|CRIDmg +7%|DEF|HP+360|None--sell rune
+Success: 21/21(100)
+Failure: 0/21(0)
+Rage|Rare|6|Rare Accuracv +9%|ATK+4%|HP+4%|HP 108|None|None--sell rune
+Success: 22/22(100)
+Failure: 0/22(0)

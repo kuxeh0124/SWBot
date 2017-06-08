@@ -1,0 +1,5 @@
+Violent|Legend|1|ATK 15|None|ATK+5%  +|CRIRate  5%|Resistance+6%|CRIDmg +5%--get rune
+Endure|Hero|1|ATK+22|Accuracy+7%|HP+208|Resistance+8%|CRIRate +5%|None--sell rune
+Energy Refill
+Violent|Hero|1|ATK+15|None|SPD+5|Resistance+3%|HP+220|None--sell rune
+Revenge|Hero|5|HP+360|None|ATK+8%|ATK+14|CRIDmg +4%|None--sell rune

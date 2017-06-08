@@ -1,0 +1,1 @@
+Focus|Hero|6|Resistance+9%|SPD+4|DEF+15|HP+7%|ATK+4%|None--sell rune

@@ -1,0 +1,7 @@
+Endure|Rare|3|DEF+15|None|7% .1.|CRIRate  3%|None|None--sell rune
+Shield|Rare|2|HP+8%|SPD+5|Accuracy+6%|HP 294|None|None--sell rune
+Focus|Rare|3|HP+360|None|CRIRate +6%|SPD+5|None|None--sell rune
+Guard|Rare|1|ATK+15|None|Accuracy+6%|CRIDmg +4%|None|None--sell rune
+Violent|Legend|2|DEF+15|ATK+4%|Resistance+6%  n..L|SPD+4|CRIRate +3%|HP 7%  3.1.--sell rune
+Guard|Rare|2|DEF+15|HP+213|7% ATK  +|CRIRate +4%|None|None--sell rune
+Revenge|Rare|1|ATK+15|HP+200|Resistance+7%  n..L|CRIRate  3%|None|None--sell rune

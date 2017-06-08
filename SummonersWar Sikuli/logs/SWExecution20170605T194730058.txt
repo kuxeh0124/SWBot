@@ -1,0 +1,34 @@
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 1/1(100)
+Failure: 0/1(0)
+||Accuracv+5%||||||||
+Can't Identify|Normal|Can't Identify|None|AccuracAccuracy+5%|None|None|None|None--get rune
+Success: 2/2(100)
+Failure: 0/2(0)
+Success: 3/3(100)
+Failure: 0/3(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 4/4(100)
+Failure: 0/4(0)
+|I/.1.|CRIRate +1%||SPD+2||||||
+Can't Identify|Magic|Can't Identify|I/.1.|CRIRate +1%|SPD+2|None|None|None--get rune
+Success: 5/5(100)
+Failure: 0/5(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 6/6(100)
+Failure: 0/6(0)
+Success: 7/7(100)
+Failure: 0/7(0)
+DE
+ 1 ‘||||HP+4"/o||||||
+Can't Identify|Magic|1|None|None|HP+4"/o|None|None|None--get rune
+Success: 8/8(100)
+Failure: 0/8(0)
+Energy Refill
+Success: 9/9(100)
+Failure: 0/9(0)
+Success: 10/10(100)
+Failure: 0/10(0)

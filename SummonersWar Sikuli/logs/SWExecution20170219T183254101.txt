@@ -1,0 +1,1 @@
+Rage|Hero|5|HP+270|SPD+5|DEF+7%|CRIDmz +3%|CRIRate +3%|None--sell rune

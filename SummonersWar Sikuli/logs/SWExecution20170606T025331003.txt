@@ -1,0 +1,15 @@
+\JI.U'-’r'f’fJ
+ 1'.m'.t1'aL'izeReg1'.ons ( )_: 
+ getfleankunebetbi Ls (ge tRuneRegianCaardinates ( )) 
+ //2etRuneReeionCoordinates ( 3: 
+ I IKJLJLLLII I I.LI I LJI .LII 
+ I:||||C858
+ |"8ll'|'.OI'| 
+ I'I"l'\Il 
+ SD": 
+ C858||default:
+ C\::<I-am nnf nr-1'n<I-1n("Ilnr-Ior- ("nn:~<l>r~||r-<l>-Inn"||I)||r1nggetxunes 
+ olean getRune 
+ returnvropertyg 
+ se1lOrGetRune(getRunes, 
+ getC1eanRuneDetai1s(getRuneRegionCoordinates()))

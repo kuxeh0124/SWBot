@@ -1,0 +1,62 @@
+Success: 1/1(100)
+Failure: 0/1(0)
+Revenge|Normal|1|ATK+7|HP+54|None|None|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)
+Revenge|Magic|1|ATK 10|None|Resistance+3%  n.l.'2|None|None|None--sell rune
+Success: 3/3(100)
+Failure: 0/3(0)
+Revenge|Magic|1|ATK 10|None|2% .1.|None|None|None--sell rune
+Success: 4/4(100)
+Failure: 0/4(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 5/5(100)
+Failure: 0/5(0)
+Success: 6/6(100)
+Failure: 0/6(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 7/7(100)
+Failure: 0/7(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 8/8(100)
+Failure: 0/8(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 9/9(100)
+Failure: 0/9(0)
+Revenge|Normal|1|ATK+15|None|None|None|None|None--sell rune
+Success: 10/10(100)
+Failure: 0/10(0)
+Revenge|Magic|1|ATK+7|None|3% .1.|None|None|None--sell rune
+Success: 11/11(100)
+Failure: 0/11(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 12/12(100)
+Failure: 0/12(0)
+Revenge|Magic|1|ATK 10|None|ATK+6%|None|None|None--sell rune
+Success: 13/13(100)
+Failure: 0/13(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 14/14(100)
+Failure: 0/14(0)
+Revenge|Normal|1|ATK+7|None|None|None|None|None--sell rune
+Success: 15/15(100)
+Failure: 0/15(0)
+Revenge|Normal|1|ATK+7|CRIRate +1%|None|None|None|None--sell rune
+Success: 16/16(100)
+Failure: 0/16(0)
+Revenge|Magic|1|ATK+7|None|Resistance+2%  n..L|None|None|None--sell rune
+Success: 17/17(100)
+Failure: 0/17(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 18/18(100)
+Failure: 0/18(0)
+Success: 19/19(100)
+Failure: 0/19(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 20/20(100)
+Failure: 0/20(0)
+Success: 21/21(100)
+Failure: 0/21(0)
+Energy Refill
+Success: 22/22(100)
+Failure: 0/22(0)

@@ -1,0 +1,193 @@
+Focus|Hero|2|HP+270|None|DEF+10|CRIRate +4%|SPD+3|None--sell rune
+Endure|Hero|6|HP+8%|ATK 12  +|Resistance+6%  n..L|DEF 13|HP+1 57|None--sell rune
+Focus|Rare|3|DEF+15|None|CRIDmg +3%|SPD+5|None|None--sell rune
+Revenge|Hero|4|HP+8%|SPD+4|ATK+5%  +|ATK+11|Resistance+4%|None--sell rune
+Focus|Rare|3|DEF+15|None|HP+7%|CRIDmg +4%|None|None--sell rune
+Focus|Rare|3|HP+270|None|DEF+14|DEF+4%|None|None--sell rune
+Rage|Rare|5|HP+270|None|CRIRate +5%|CRIDmg +3%|None|None--sell rune
+Focus|Rare|1|ATK+15|None|5% .1.|Resistance 5%|None|None--sell rune
+Shield|Rare|5|HP+270|ATK+4%|CRIDmg +4%|DEF+6%|None|None--sell rune
+Energy Refill
+Focus|Rare|3|DEF+15|Accuracy+3%|DEF+6%|CRIRate  3%|None|None--sell rune
+Focus|Rare|3|Resistance+9%|None|HP+251|CRIDmg +4%|None|None--sell rune
+Focus|Hero|6|HP+8%|ATK+15  4.1!:|Resistance+4%  3-I-A|HP 260|Accuracv QI|None--sell rune
+Rage|Rare|6|HP+270|4.2 ‘I’:|CRIRate +3%|Accuracy+6%|None|None--sell rune
+Revenge|Legend|3|DEF+15|CRIRate +5%|CRIDmg +3%|HP+155|Accuracv QI|Resistance+3%  n.l.'J--sell rune
+Revenge|Rare|2|HP+11%|Accuracy+7%|DEF+17|HP 193|None|None--get rune
+Rage|Rare|1|ATK+15|ATK 7%  _.L|SPD+3|Resistance+4%|None|None--sell rune
+Rage|Rare|3|DEF+15|None|CRIDmg +4%|HP 7%|None|None--sell rune
+Rage|Rare|2|ATK+15|SPD+3|Resistance+3%  n.l.'2|CRIRate  3%|None|None--sell rune
+Rage|Rare|6|HP+270|None|SPD+4|Accuracy+6%|None|None--sell rune
+Rage|Rare|5|HP+270|None|7% ATK  +|7% Accuracy|None|None--sell rune
+Rage|Rare|6|AccuracAccuracy+9%|HP+7%|Resistance+6%  n..L|HP 140|None|None--sell rune
+Energy Refill
+Rage|Rare|4|ATK+22|ATK+8%|DEF+10|Resistance|None|None--sell rune
+Focus|Hero|2|DEF+15|Accuracy+4%|CRIRate +4%|Resistance+4%|CRIDmg +4%|None--sell rune
+Revenge|Rare|6|HP+270|ATK+8|DEF+14|Resistance+3%|None|None--sell rune
+Rage|Rare|1|ATK+22|None|Resistance+6%  n..L|HP+6%|None|None--sell rune
+Rage|Rare|6|DEF+8%|None|SPD+3|HP+5%|None|None--sell rune
+Rage|Rare|4|DEF+15|CRIDmg +|HP+7%|7% Accuracy|None|None--sell rune
+Focus|Hero|3|DEF+15|DEF+7%|CRIRate +3%|HP+6%|Resistance+3%|None--sell rune
+Rage|Rare|1|ATK+15|None|CRIDmg +5%|ATK+|None|None--sell rune
+Shield|Hero|2|HP+8%|None|DEF+7%|SPD+5|HP+173|None--sell rune
+Energy Refill
+Rage|Rare|2|DEF+8%|None|HP+195|CRIDmg +3%|None|None--sell rune
+Guard|Rare|3|DEF+15|None|CRIRate +4%|CRIDmg +4%|None|None--sell rune
+Focus|Rare|1|HP+270|None|ATK+5%  +|Resistance 5%|None|None--sell rune
+Revenge|Rare|2|HP+8%|ATK 7%  _.L|SPD+3|CRIRate  3%|None|None--sell rune
+Rage|Rare|3|DEF+15|HP+279|5% .1.|HP+5%|None|None--sell rune
+Revenge|Hero|6|ATK+22|DEF+5%|ATK+8%|Accuracy+6%|HP+361|None--sell rune
+Rage|Rare|4|ATK+8%|None|7% .1.|CRIRate  3%|None|None--sell rune
+Guard|Rare|4|DEF+15|Accuracy+S%|ATK+6%|SPD+5|None|None--sell rune
+Violent|Rare|2|DEF+15|Accuracy+3%|CRIDmg +4%|CRIRate  3%|None|None--sell rune
+Revenge|Hero|5|HP+270|None|DEF+10|Resistance 5%|CRIRate +4%|None--sell rune
+Guard|Rare|2|ATK+15|None|CRIDmg +4%|CRIRate  5%|None|None--sell rune
+Guard|Rare|6|AccuracAccuracy+9%|Resistance+4%|12 ATK  +|CRIRate +4%|None|None--sell rune
+Energy Refill
+Focus|Rare|1|ATK+22|ATK+8%|5% .1.|Resistance 5%|None|None--sell rune
+Focus|Hero|5|HP+270|CRIRate +3%|HP+5%|Resistance|DEF+4%|None--sell rune
+Rage|Rare|3|DEF+15|DEF+6%|HP+7%|HP+139  .L'I TJC|None|None--sell rune
+Guard|Legend|5|HP+270|None|7% ATK  +|DEF+11|Accuracv|ATK+15--sell rune
+Rage|Rare|5|HP+270|None|5% .1.|ATK+9|None|None--sell rune
+Energy Refill
+Violent|Rare|6|Resistance+9%|DEF+5%|7% .1.|CRIDmg +5%|None|None--sell rune
+Guard|Legend|2|HP+8%|None|CRIRate +5%|3% Accuracy  +'.'J|ATK+8|DEF+5%--sell rune
+Endure|Rare|4|HP+11%|CRIRate +4%|SPD+4|DEF+6%|None|None--get rune
+Rage|Rare|6|Resistance+9%|None|CRIDmg +4%|DEF+5%|None|None--sell rune
+Rage|Rare|3|DEF+15|None|SPD+4|CRIDmg +3%|None|None--sell rune
+Focus|Rare|2|HP+270|None|CRIRate +3%|HP+6%|None|None--sell rune
+Rage|Rare|4|ATK+15|None|DEF+6%|CRIDmg +4%|None|None--sell rune
+Rage|Rare|1|ATK+22|None|Accuracy+4%|CRIRate  6%|None|None--sell rune
+Rage|Rare|3|DEF+15|None|HP+4%|HP+247|None|None--sell rune
+Rage|Rare|4|DEF+11%|None|7% .1.|CRIDmg +4%|None|None--sell rune
+Rage|Rare|4|HP+11%|SPD+6|CRIRate +4%|ATK+14|None|None--get rune
+Energy Refill
+Revenge|Rare|5|HP+360|Accuracy+7%|Resistance n..L|ATK+8%|None|None--sell rune
+Rage|Rare|4|DEF+15|ATK+8|HP+7%|7% Accuracy|None|None--sell rune
+Focus|Rare|1|DEF+11%|None|HP+7%|5% Accuracy|None|None--sell rune
+Guard|Rare|6|ATK+11%|Resistance+6%|13 ATK  +|Accuracy+4%|None|None--get rune
+Rage|Rare|6|ATK+22|None|ATK+5%  +|DEF+14|None|None--sell rune
+Energy Refill
+Endure|Hero|6|DEF+8%|None|HP+121|ATK+10|Accuracv|None--sell rune
+Focus|Rare|1|ATK+15|HP+104|HP+7%|ATK+|None|None--sell rune
+Rage|Rare|2|ATK+15|None|Resistance+6%  n..L|HP+%|None|None--sell rune
+TenaciousFocus Rune 
+ Rai|DEF+15|HP+7%||CRIRate +5%||DEF+5%||||
+Rage|Rare|Can't Identify|DEF+15|HP+7%|CRIRate +5%|DEF+5%|None|None--get rune
+Rage|Rare|4|DEF+11%|CRIDmg +|Resistance+4%  3-I-A|DEF+18|None|None--sell rune
+VI€I€I IE I\§lI I\— 
+ I\I-lI\-p||JI_.l'llIU|||I1II\'II
+ DEC 4.1 I:||I.Jl_|' IJ||||
+Can't Identify|Rare|Can't Identify||JI_.l'llIU|None|I1II\'II DEC 4.1 I:|I.Jl_|' IJ|None|None--get rune
+Energy Refill
+I—IIBILII \-v I\€I I\— 
+ I\I-lI\-p|Ill‘LI /U|||l\\u~7|~JL(JIl\.p\.p' I IU||\..l\ll\GLC " J/0||||
+Can't Identify|Rare|Can't Identify|Ill‘LI /U|None|l\\u~7|~JL(JIl\.p\.p' I IU|\..l\ll\GLC " J/0|None|None--get rune
+U\\-v'€IID\-v I\\JII\— 
+ I¢\nb\vI I€|\.I\l|Jlll5 ' IJIU|||\oI\lI\LlL\y ' "I’IU 
+ 1-9| up-\l-:1||I'\L.L.lJIOLY ' JIO 
+ III'\n‘I‘I(1||Fll"T||O
+ A"I'II .44||I-\|l\'1'||
+Can't Identify|Legend|Can't Identify|\.I\l|Jlll5 ' IJIU|None|\oI\lI\LlL\y ' "I’IU  1-9| up-\l-:1|I'\L.L.lJIOLY ' JIO  III'\n‘I‘I(1|Fll"T||O A"I'II .44|I-\|l\'1'||--get rune
+I\IUV\vII\JI VI\II\-IIB I\\?II\p 
+ I\\JI\—|IJI-I' I-I|r\II\"I'll!||\..I\ILJIIIE "'I'IU 
+ l_lD 4.l:0/||III"‘J /U||||
+Can't Identify|Rare|Can't Identify|IJI-I' I-I|r\II\"I'll!|\..I\ILJIIIE "'I'IU  l_lD 4.l:0/|III"‘J /U|None|None--get rune
+I&I IBl€I%Z€ V I€I&IIB I\%III& 
+ I\%I&|IJI-I' I-I|III"III!||\oI\lI\LlL\y ' J/U||l\C3lDlC|ILC ' J/U||||
+Can't Identify|Rare|Can't Identify|IJI-I' I-I|III"III!|\oI\lI\LlL\y ' J/U|l\C3lDlC|ILC ' J/U|None|None--get rune
+I—IIEIEII \-v I\¥I I& 
+ I\I-II\-p|l.l|_l
+ ILL|||\..I\ILJIIIE ' \lIU||\..l\ll\GLC " J/0||||
+Can't Identify|Rare|Can't Identify|l.l|_l ILL|None|\..I\ILJIIIE ' \lIU|\..l\ll\GLC " J/0|None|None--get rune
+Energy Refill
+€5IVIIO VVVIV I\€II€ 
+ I\%II€|III'lIIU|III 'l—£l—||I'W\..\.L«llCK. 
+ I\Tl/ 4.00/ 
+ J 
+ I ‘T /U||I‘\ll\‘U /0||||
+Can't Identify|Rare|5|III'lIIU|III 'l—£l—|I'W\..\.L«llCK.  I\Tl/ 4.00/  J  I ‘T /U|I‘\ll\‘U /0|None|None--get rune
+\J\a\.al\l I\\aI I\— ‘a ll 
+ I\I-II\-I|III‘L IV|||F\II\'JIU 
+ DEC 4.1 A||I.Jl_|' I‘?||||
+Can't Identify|Rare|Can't Identify|III‘L IV|None|F\II\'JIU  DEC 4.1 A|I.Jl_|' I"'I‘|None|None--get rune
+I—IIBILII \-I I\€I I\— 
+ I\I-II\-I|I\CDIDLGlI\..C ' UIU|||~JII.J"T
+ DEC 4.CO/||I.Jl_|‘U /U||||
+Can't Identify|Rare|Can't Identify|I\CDIDLGlI\..C ' UIU|None|~JII.J"T DEC 4.CO/|I.Jl_|‘U / U|None|None--get rune
+&IIWI \.u I\\JI I\-v 
+ I I\-¢I\J|I'\Il\' I.)|||I./|_l"'I'IU||\..l\lI\GlC " J/0 
+ I'\l'l'n11||lJC.I"TII||
+Can't Identify|Hero|Can't Identify|I'\Il\' I.)|None|I./|_l"'I'IU|\..l\lI\GlC " J/0  I'\l'l'n11|lJC.I"TII|None--get rune
+I\I\oLduJ I\\?II\p 
+ I I\nI\J|III‘U /U|||I\\u~7I.JL(JII\.p\.p' I IU 
+ 1-9| up-\l-In||I'\\..L.LllOLY ' ‘? /0 
+ I‘l\I l'\..._ I l?l||LKIIJIII5 T470||
+Can't Identify|Hero|Can't Identify|III‘U /U|None|I\\u~7I.JL(JII\.p\.p' I IU  1-9| up-\l-In|I'\\..L.LllOLY ' ‘? /0  I‘l\I l'\..._ I l?l|LKIIJIII5 T470|None--get rune
+I€%\I—II\ElII %\I I 
+ I\IuII\Ip|I'\Il\' IJ|||F\II\'\IIU 
+ Cl')l'\ 4.3||.JI'|J'.J||||
+Can't Identify|Rare|Can't Identify|I'\Il\' IJ|None|F\II\'\IIU  Cl')l'\ 4.3|.JI'|J'.J|None|None--get rune
+VI€I€I IE I\¥II\— 
+ I\I-II\-I|IJI-I' I-I|||\..I\ILJIIIE '~IIU||I\C3lDlC|ILC ' J/U||||
+Can't Identify|Rare|Can't Identify|IJI-I' I-I|None|\..I\ILJIIIE '~IIU|I\C3lDlC|ILC ' J/U|None|None--get rune
+IVIZI“ II‘IIVV IGI‘€I I& 
+ ‘VI I‘l|I.J|_.I' IJ|\—I\II\(—I$\- ' -JIU||I\\u~7I.JL(JIl\..\— ' VJIU 
+ DEC 4.l:O/||l.Jl._|‘J /0 
+ f‘f'\I l'\..._ I ‘I OI||LKIIJIII5 T370 
+ I "‘l'II||HCCUTBCVT370 
+ 3)’
+Can't Identify|Legend|Can't Identify|I.J|_.I' IJ|\—I\II\(—I$\- ' -JIU|I\\u~7I.JL(JIl\..\— ' VJIU  DEC 4.l:O/|l.Jl._|‘J /0  f‘f'\I l'\..._ I ‘I OI|LKIIJIII5 T370  I "‘l'II|HCCUTBCVT370  3)’--get rune
+VI\II\oI IL I\\JI I\-I 
+ I I\I¢I\J|I\CDIDLG|ILC ' JIIU|||III‘IJi ll 
+ 1-9| In-\l-II||I'\l..L.L|IOLY ' ‘? /0 
+ f‘I'\I I"\_L- I A?l||\..l\ll'\dl.l:.' T470||
+Can't Identify|Hero|Can't Identify|I\CDIDLG|ILC ' JIIU|None|III'IJIU  1-9| In-\l-II|I'\L.L.L|IOLY ' ‘? /0  f‘I'\I I"\+- I A?l|\..l\ll'\dl.\:.' T470|None--get rune
+Energy Refill
+I—IIBILII \-I I\€I I\II 
+ I\I-II\-I|\—|\II\GLC ‘J/ U|||I\\u~7I.JLlJII\.p\.p‘ Iil l 
+ LII3 4.31 C||Ill‘'LIll||||
+Can't Identify|Rare|Can't Identify|\—|\II\GLC ‘J/ U|None|I\\u~7I.JLlJII\.p\.p‘ Iil l  LII‘) 4.31 C|Ill‘'LIll|None|None--get rune
+IVIéI‘%III\&V‘IIo‘ I\éII‘ 
+ I I‘I€|III‘Li ll|\pI\II\I.-Itla ‘IJil l||\..I\ILJIIIE ' uilll 
+ DEC 4.AO/||I.Jl_|"?/U 
+ A _-.-....--. 
+ I A?l||HLLUIdLy T470||
+Can't Identify|Hero|Can't Identify|III‘Li ll|\pI\II\I.-Itla ‘IJil l|\..I\ILJIIIE ' uilll  DEC 4.AO/|I.Jl_|"?/U  A _-.-....--.  I A?l|HLLUIdLy T470|None--get rune
+‘\dI\rI\\JIJ|.lI\J I\\dII\v 
+ I\\JI\v|III‘Li ll|JILJ‘J||\..I\ILJIIIE '~IIll||I\C3l3lG|ll..C‘ Ill )||||
+Can't Identify|Rare|Can't Identify|III‘Li ll|JILJ‘J|\..I\ILJIIIE '~IIll|I\C3l3lG|ll..C‘ Ill )|None|None--get rune
+I\‘V‘II°‘I\‘lII‘ ‘ I! 
+ I\\JI\v|I'\Il\' IJ|||\..I\ILJIIIE '~IIll 
+ A TV 4.'IOI||l"'\ll\'i/0||||
+Can't Identify|Rare|Can't Identify|I'\Il\' IJ|None|\..I\ILJIIIE '~IIll  A TV 4.'IOI|l"'\ll\'i/0|None|None--get rune
+QIII‘I€ I\\IlI I\-I 
+ I\I-II\-I|Ill‘Lli ll|||\oI\II\l.IL\y ' "fill||I\C3l3lC|ILC ' J/ll||||
+Can't Identify|Rare|Can't Identify|Ill‘Lli ll|None|\oI\II\l.IL\y ' "fill|I\C3l3lC|ILC ' J/ll|None|None--get rune
+€III‘I€I\IIlI I\— 
+ I\I-II\-I|III‘Li ll|||III‘\li ll 
+ 1-9| In-\l-II||I'\l..L.l.«|I(Jl..Y' I I0||||
+Can't Identify|Rare|Can't Identify|III‘Li ll|None|III‘\li ll  1-9| In-\l-II|I'\l..L.l.«|I(Jl..Y' I I0|None|None--get rune
+IW I\‘III\v 
+ p-,\..I Iva|\..l\lI\CII.l: ' JN|||III‘III’ ? 
+ DEC 4.AO/||I.Jl._|"?/U 
+ f‘f'\I l'\..._ I POI||LKIIJIII5 T370 
+ IIl'\.||1'1!"T070
+Can't Identify|Legend|Can't Identify|\..l\lI\CII.l: ' JN|None|III‘III’ ?  DEC 4.AO/|I.Jl._|"?/U  f‘f'\I l'\..._ I POI|LKIIJIII5 T370  IIl'\.|1'1!"T070--get rune
+{BIVIIO I 846 I\€II‘ 
+ I ‘ I?|III'Llill|III‘III’ ?||I\N.~7I.JLl.lIIN.N. ' \Jill||N.I\II\GLC " ‘? /0 
+ I'\I'I' I '10]||lJC.I'TI70||
+Can't Identify|Hero|4|III'Llill|III‘III’ ?|I\\u~7I.JLlJII\..\— ' \Jill|\..I\II\GLC " ‘? /0  I'\I'I' I '10]|lJC.I'TI70|None--get rune
+Energy Refill
+4|"W |\\Il| |\— 
+ |\I.|I\-I|IJI-I‘I- l|||III‘I' 7J 
+ 1-9| In-\l-II||I'\l..L.L|IOLY ' JIO||||
+Can't Identify|Rare|4|IJI-I‘I- l|None|III‘I' 7J  1-9| In-\l-II|I'\l..L.L|IOLY ' JIO|None|None--get rune
+IIIBI I\'NJ5NIn I \I\r\JqI I\\JII\— 
+ I I\vI€|III‘Li ll|f'\N.N.l.II3N.) 
+ I\Iiu||LII-I‘Ji ll 
+ DEC 4.1 1||I.Jl_I‘ II 
+ ATII I (‘III||HII'\T370||
+Can't Identify|Hero|5|III‘Li ll|f'\N.N.l.II3N.)  I\Iiu|LII-I‘Ji ll  DEC 4.1 1|I.Jl_I‘ II  ATII I (‘III|HII'\T370|None--get rune
+Success Rate: 0.0%
+Failure Rate: 0.0%

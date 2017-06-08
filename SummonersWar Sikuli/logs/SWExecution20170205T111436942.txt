@@ -1,0 +1,4 @@
+||||||||||
+Can't Identify|Can't Identify|Can't Identify|None|None|None|None|None|None--get rune
+Success Rate: 100.0%
+Failure Rate: 0.0%

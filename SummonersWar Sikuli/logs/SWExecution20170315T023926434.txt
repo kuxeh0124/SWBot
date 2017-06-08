@@ -1,0 +1,21 @@
+Blade|Rare|6|Rare HP +8%|CRIRate +4%|13 ATK  +|Resistance|None|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Energy|Rare|4|Rare HP +8%|None|CRIDmg +5%|CRIRate  5%|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)
+Energy|Rare|2|Rare DEF +8%|DEF+9|CRIRate +3%|ATK+7%|None|None--sell rune
+Success: 3/3(100)
+Failure: 0/3(0)
+Success: 4/4(100)
+Failure: 0/4(0)
+Success: 5/5(100)
+Failure: 0/5(0)
+Swift|Hero|4|HP+270|CRIRate +5%|ATK+6%|SPD+4|DEF+14|None--sell rune
+Success: 6/6(100)
+Failure: 0/6(0)
+Success: 6/7(0)
+Failure: 1/7(0)
+Despair|Rare|4|Rare HP +8%|CRIDmg +4%|Resistance+5%  n..L|Accuracy+4%|None|None--sell rune
+Success: 7/8(0)
+Failure: 1/8(0)

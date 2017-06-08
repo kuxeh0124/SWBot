@@ -1,0 +1,42 @@
+Revenge|Magic|1|ATK 10|None|HP+164|None|None|None--sell rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+15|||||||||
+Revenge|Can't Identify|1|ATK+15|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+10|||||||||
+Revenge|Can't Identify|1|ATK+10|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+15|||||||||
+Revenge|Can't Identify|1|ATK+15|None|None|None|None|None--get rune
+Revenge|Magic|1|ATK+7|None|Accuracy+4%|None|None|None--sell rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+Revenge|Magic|1|ATK 10|None|HP+103|None|None|None--sell rune
+Energy Refill
+Revenge|Magic|1|ATK+7|None|Resistance+4%  3-I-A|None|None|None--sell rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+15|||||||||
+Revenge|Can't Identify|1|ATK+15|None|None|None|None|None--get rune
+Revenge|Magic|1|ATK 10|None|CRIRate +4%|None|None|None--sell rune
+ResistantRevenge Rune (1) 
+ Normal|ATK+10|Resistance+4%||||||||
+Revenge|Can't Identify|1|ATK+10|Resistance+4%|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+15|||||||||
+Revenge|Can't Identify|1|ATK+15|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune

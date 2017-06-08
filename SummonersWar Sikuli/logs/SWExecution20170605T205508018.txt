@@ -1,0 +1,9 @@
+DE
+ 1 ‘|I/.1.|||CRIRate +1"/o||||||
+Can't Identify|Magic|1|I/.1.|None|CRIRate +1"/o|None|None|None--get rune
+Success: 1/1(100)
+Failure: 0/1(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 2/2(100)
+Failure: 0/2(0)

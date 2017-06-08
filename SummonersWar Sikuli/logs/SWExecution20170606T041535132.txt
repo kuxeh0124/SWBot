@@ -1,0 +1,5 @@
+||'h3)|||||||||
+|DEF+15|||HP+225||ATK+12||F‘_l'-3|Daft: -I-'-l°A||\Il\II\\nIL\.t '\I’\J
+None|Legend|Can't Identify|DEF+15|None|HP+225|ATK+12|F‘_l'-3|Daft: -I-'-l°A|\Il\II\\nIL\.t '\I’\J--get rune
+Success: 1/1(100)
+Failure: 0/1(0)

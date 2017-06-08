@@ -1,0 +1,65 @@
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Success: 2/2(100)
+Failure: 0/2(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 3/3(100)
+Failure: 0/3(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 4/4(100)
+Failure: 0/4(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 5/5(100)
+Failure: 0/5(0)
+Success: 6/6(100)
+Failure: 0/6(0)
+||4%
+ Resistance||||||||
+Can't Identify|Normal|Can't Identify|None|4% Resistance|None|None|None|None--get rune
+Success: 7/7(100)
+Failure: 0/7(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 8/8(100)
+Failure: 0/8(0)
+||CRIRate +1°/o||||||||
+Can't Identify|Normal|Can't Identify|None|CRIRate +1°/o|None|None|None|None--get rune
+Energy Refill
+Success: 9/9(100)
+Failure: 0/9(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 10/10(100)
+Failure: 0/10(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 11/11(100)
+Failure: 0/11(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 12/12(100)
+Failure: 0/12(0)
+DE
+ 1 ‘||||HP+117||||||
+Can't Identify|Magic|1|None|None|HP+117|None|None|None--get rune
+Success: 13/13(100)
+Failure: 0/13(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 14/14(100)
+Failure: 0/14(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 15/15(100)
+Failure: 0/15(0)
+Success: 16/16(100)
+Failure: 0/16(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 17/17(100)
+Failure: 0/17(0)

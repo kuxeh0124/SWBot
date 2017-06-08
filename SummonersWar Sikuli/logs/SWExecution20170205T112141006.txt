@@ -1,0 +1,3 @@
+Despair|Hero|3|DEF+15|HP44%|CRIRate +5%|CRIDmz +3%|HP+1 29|None--sell rune
+Success Rate: 100.0%
+Failure Rate: 0.0%

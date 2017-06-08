@@ -1,0 +1,34 @@
+||HP+67||||||||
+Can't Identify|Normal|Can't Identify|None|HP+67|None|None|None|None--get rune
+Success: 1/1(100)
+Failure: 0/1(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 2/2(100)
+Failure: 0/2(0)
+DE
+ 1 ‘|I/.1.|||HP+108||||||
+Can't Identify|Magic|1|I/.1.|None|HP+108|None|None|None--get rune
+Success: 3/3(100)
+Failure: 0/3(0)
+||CRIRate +2°/o||||||||
+Can't Identify|Normal|Can't Identify|None|CRIRate +2°/o|None|None|None|None--get rune
+Success: 4/4(100)
+Failure: 0/4(0)
+Success: 5/5(100)
+Failure: 0/5(0)
+Success: 6/6(100)
+Failure: 0/6(0)
+DE
+ 1 ‘|I/.1.|||HP+141||||||
+Can't Identify|Magic|1|I/.1.|None|HP+141|None|None|None--get rune
+Success: 7/7(100)
+Failure: 0/7(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 8/8(100)
+Failure: 0/8(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 9/9(100)
+Failure: 0/9(0)

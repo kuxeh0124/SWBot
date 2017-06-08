@@ -1,0 +1,3 @@
+PowerfulRevenge Rune (1) 
+ Normal|ATK+15|ATK+4%||||||||
+Revenge|Can't Identify|1|ATK+15|ATK+4%|None|None|None|None--get rune

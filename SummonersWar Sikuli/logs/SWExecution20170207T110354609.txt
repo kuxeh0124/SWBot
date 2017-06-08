@@ -1,0 +1,12 @@
+Revenge|Rare|5|HP+270|CRIDmg +|ATK 14  +|ATK+5%|None|None--sell rune
+Endure|Hero|3|DEF+15|None|DEF+6%|Resistance|SPD+5|None--sell rune
+Energy Refill
+Revenge|Rare|2|DEF+15|Accuracy+S%|CRIRate +4%|SPD+3|None|None--sell rune
+Guard|Rare|4|ATK+15|None|HP+167|HP+4%|None|None--sell rune
+Violent|Rare|4|ATK+8%|None|HP+6%|SPD+5|None|None--sell rune
+Focus|Rare|6|ATK+8%|DEF+10|SPD+4|HP 7%|None|None--sell rune
+Focus|Rare|3|DEF+15|CRIDmg +|DEF+6%|SPD+4|None|None--sell rune
+Focus|Hero|1|ATK+15|ATK 7%  +|CRIDmg +5%|CRIRate +4%|HP+7%|None--get rune
+Guard|Hero|1|ATK+22|CRIRate +4%|SPD+6|HP+6%|ATK 7%|None--get rune
+Energy Refill
+Focus|Hero|6|HP+270|CRIRate +4%|ATK+9|ATK+7%|HP+41%|None--sell rune

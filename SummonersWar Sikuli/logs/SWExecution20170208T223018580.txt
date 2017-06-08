@@ -1,0 +1,5 @@
+willRune (1) 
+ Legend|ATK
+ 15|||HP+242||CRIDmg +396||HP+41%||Resistance+6% 
+ r'\.l..
+Can't Identify|Legend|1|ATK 15|None|HP+242|CRIDmg +3%|HP+41%|Resistance+6%  r'\.l..--get rune

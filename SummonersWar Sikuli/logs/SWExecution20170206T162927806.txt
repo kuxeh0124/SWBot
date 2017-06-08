@@ -1,0 +1,8 @@
+Endure|Rare|4|HP+8%|SPD+4|Accuracy+4%|HP
+ 285|None|None--sell rune
+Shield|Rare|4|DEF+8%|None|Resistance+3% 
+ n.l.'2|ATK+10|None|None--sell rune
+Endure|Hero|4|ATK+15|None|ATK+6%|HP+6%|CRIDmg +3%|None--sell rune
+Shield|Rare|2|ATK+8%|CRIRate +5%|DEF+7%|DEF+15|None|None--sell rune
+Guard|Rare|6|HP+270|None|CRIRate +3%|Accuracy+4%|None|None--sell rune
+Energy Refill

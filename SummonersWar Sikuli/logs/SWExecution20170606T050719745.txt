@@ -1,0 +1,103 @@
+None|Normal|None||'h3)|None|None|None|None|None--sell rune
+Success: 0/1(0)
+Failure: 1/1(100)
+None|Rare|None|HP+270|None|None|SPD+3|None|None--sell rune
+Success: 1/2(0)
+Failure: 1/2(0)
+None|Rare|None|DEF+15|SPD+5|HP+132|CRIRate +3%|None|None--sell rune
+Success: 2/3(0)
+Failure: 1/3(0)
+Success: 3/4(0)
+Failure: 1/4(0)
+Success: 4/5(0)
+Failure: 1/5(0)
+None|Legend|None|l_ll'§ IP +270|CRIRate +3%|SPD+4|None|HP+A°A|I"If",--sell rune
+Success: 5/6(0)
+Failure: 1/6(0)
+None|Rare|4|DEF+8%|ATK+5%|ATK+10|HP+7%|None|None--sell rune
+Success: 6/7(0)
+Failure: 1/7(0)
+Success: 6/8(0)
+Failure: 2/8(0)
+None|Rare|None|ATK+15  I/.1.|None|HP+7%|SPD+3|None|None--sell rune
+Success: 7/9(0)
+Failure: 2/9(0)
+Success: 7/10(0)
+Failure: 3/10(0)
+Success: 7/11(0)
+Failure: 4/11(0)
+None|Legend|None|DEF+80/o|+3%|Resistance+4%|CRIRate +3%|DFF+11|I-II1I--sell rune
+Energy Refill
+Success: 8/12(0)
+Failure: 4/12(0)
+Success: 9/13(0)
+Failure: 4/13(0)
+None|Rare|None|ATK+15  I/.1.|None|HP+7%|Resistance+5%|None|None--sell rune
+Success: 10/14(0)
+Failure: 4/14(0)
+None|Magic|None|HP+360|None|CRIRate +6%|None|None|None--sell rune
+Success: 11/15(0)
+Failure: 4/15(0)
+Success: 11/16(0)
+Failure: 5/16(0)
+Success: 11/17(0)
+Failure: 6/17(0)
+None|Legend|None|ATK+15  I/_1_|None|ATK+4%|HP+132|HP+F\°A|I\J’\I--sell rune
+Success: 12/18(0)
+Failure: 6/18(0)
+Success: 12/19(0)
+Failure: 7/19(0)
+Success: 13/20(0)
+Failure: 7/20(0)
+Success: 13/21(0)
+Failure: 8/21(0)
+None|Rare|None|DEF+8%|None|HP+235|ATK+5%|None|None--sell rune
+Success: 14/22(0)
+Failure: 8/22(0)
+Success: 14/23(0)
+Failure: 9/23(0)
+Success: 14/24(0)
+Failure: 10/24(0)
+None|Legend|2|LIE IP +11%|DEF+18|Resistance+5%|ATK+5%|CPIDmn +11%|\Il\lLJIII3  N-I u\_ '0‘,--sell rune
+Energy Refill
+Success: 15/25(0)
+Failure: 10/25(0)
+None|Legend|None|DEF+80/o|HP+106|DEF+13|HP+6%|Arm:|r:\r~\I +A°A|I‘\\I\J\-ll\J\IJ  I’I"\a--sell rune
+Success: 16/26(0)
+Failure: 10/26(0)
+None|Legend|None|LIE IP +270|7% DEF|None|ATK+7%|ATK+1 1|I\II\'II I\l'\I l'\_-- -- n "\?l--sell rune
+Success: 17/27(0)
+Failure: 10/27(0)
+Success: 17/28(0)
+Failure: 11/28(0)
+None|Legend|None|DEF+15|7% DEF|CRIRate +5%|None|Pneietannn+7°A|I\\o\Jl\JB\vIII\J\.o' I ‘ LI  IIl'\ .rn;--sell rune
+Success: 18/29(0)
+Failure: 11/29(0)
+None|Magic|None|DEF+15|None|DEF+6%|None|None|None--sell rune
+Success: 19/30(0)
+Failure: 11/30(0)
+None|Legend|None|AccuracAccuracy+9%|DEF+6”/c|HP+116|SPD+4|ATK+F\°A|I\II\'\I‘U--sell rune
+Success: 20/31(0)
+Failure: 11/31(0)
+None|Rare|None|HP+270|None|ATK+5%|HP+6%|None|None--sell rune
+Success: 21/32(0)
+Failure: 11/32(0)
+Success: 21/33(0)
+Failure: 12/33(0)
+Success: 21/34(0)
+Failure: 13/34(0)
+None|Rare|None|DEF+15|None|SPD+3|CRIRate +5%|None|None--sell rune
+Success: 22/35(0)
+Failure: 13/35(0)
+Success: 23/36(0)
+Failure: 13/36(0)
+Success: 24/37(0)
+Failure: 13/37(0)
+None|Rare|None|DEF+8%|None|DEF+12|ATK+7%|None|None--sell rune
+Energy Refill
+Success: 25/38(0)
+Failure: 13/38(0)
+Success: 25/39(0)
+Failure: 14/39(0)
+Success: 26/40(0)
+Failure: 14/40(0)

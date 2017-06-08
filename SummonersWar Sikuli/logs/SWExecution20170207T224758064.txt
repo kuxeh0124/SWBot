@@ -1,0 +1,5 @@
+Shield|Hero|2|SPD+5|ATK+4%|Resistance+6%  n..L|5% Accuracy|DEF+5‘|None--sell rune
+Focus|Rare|5|HP+360|SPD+6|Resistance+5%  n..L|CRIRate +4%|None|None--sell rune
+Energy Refill
+Guard|Hero|5|HP+270|None|ATK 14  +|CRIRate  5%|HP+7%|None--sell rune
+Revenge|Rare|4|HP+8%|None|DEF+5%|SPD+4|None|None--sell rune

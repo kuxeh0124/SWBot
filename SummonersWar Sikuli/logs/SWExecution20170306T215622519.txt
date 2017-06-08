@@ -1,0 +1,31 @@
+Revenge|Normal|1|ATK+10|CRIRate +2%|None|None|None|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)
+ResistantR 
+ levenge Rune (1)|ATK+7|Resistance+4%||||||||
+Can't Identify|Normal|1|ATK+7|Resistance+4%|None|None|None|None--get rune
+Success: 3/3(100)
+Failure: 0/3(0)
+Revenge|Normal|1|ATK+7|SPD+3|None|None|None|None--sell rune
+Success: 4/4(100)
+Failure: 0/4(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 5/5(100)
+Failure: 0/5(0)
+Revenge|Normal|1|ATK+7|CRIRate +l%|None|None|None|None--sell rune
+Success: 6/6(100)
+Failure: 0/6(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 7/7(100)
+Failure: 0/7(0)
+Success: 8/8(100)
+Failure: 0/8(0)
+Revenge|Normal|1|ATK+7|CRIDmg +|None|None|None|None--sell rune
+Success: 9/9(100)
+Failure: 0/9(0)
+Revenge|Normal|1|ATK+7|None|None|None|None|None--sell rune
+Success: 10/10(100)
+Failure: 0/10(0)

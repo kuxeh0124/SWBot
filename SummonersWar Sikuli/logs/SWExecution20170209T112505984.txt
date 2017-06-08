@@ -1,0 +1,86 @@
+Revenge|Hero|2|DEF+15|Accuracy+3%|Resistance+3%  n..I.'.i|ATK+7%|CRIRate +3%|None--sell rune
+Rage|Rare|6|ATK+8%|SPD+4|ATK+8|DEF+12|None|None--sell rune
+Endure|Hero|3|DEF+15|None|CRIDmg +4%|HP+5%|DEF+6%|None--sell rune
+Rage|Rare|2|ATK+15|None|CRIDmg +4%|ATK+|None|None--sell rune
+Energy Refill
+Focus|Legend|1|CRIDrnrz +11%|None|SPD+4|Resistance 5%|DEF+13|ATK+13--sell rune
+Rage|Rare|3|DEF+15|HP+4%|5% +|CRIDmg +4%|None|None--sell rune
+Rage|Rare|4|DEF+15|None|HP+6%|HP+241|None|None--sell rune
+Focus|Hero|3|DEF+15|HP+117|HP+7%|Resistance|CRIDmg +4%|None--sell rune
+Rage|Rare|4|CRIRate +5%|DEF+4%|ATK+5%  +|HP+4%|None|None--sell rune
+t|'lC|U|'eKUHB (D) 
+ l'le|'O|HP+Z/U|||Ul:l'+4%||CRIRate 
+ _LE( 
+ 5%||DEF+15||
+Can't Identify|Hero|Can't Identify|HP+Z/U|None|Ul:l'+4%|CRIRate  +E(  5%|DEF+15|None--get rune
+Dnlel?KUTIE (J) ‘Kar e|UH‘+15|||bPU+4||HP
+ '_ll')_L 
+ 168||||
+Can't Identify|Rare|Can't Identify|UH‘+15|None|bPU+4|HP '_ll')+  168|None|None--get rune
+LTUBILIUBTO KUTIE (D)|HP+Z/U|CRIDmg +53%||Ul:l'+570||Accuracy
+ _L'7(l 
+ 7%||||
+Can't Identify|Rare|Can't Identify|HP+Z/U|CRIDmg +53%|Ul:l'+570|Accuracy +'7(l  7%|None|None--get rune
+Kev
+ TTQI-J 
+ E KUHE 
+ Kl) 
+ Kare|HP+Z/U|||HP+b%||CRIRate +4%||||
+Can't Identify|Rare|Can't Identify|HP+Z/U|None|HP+b%|CRIRate +4%|None|None--get rune
+UUI'aD|eRevenge RUDE (D) 
+ f.\LJ('! 
+ Kare|KGSISIBFICE+53%|DU‘+5%||HP+1Z4||HP+4%||||
+Revenge|Rare|Can't Identify|KGSISIBFICE+53%|DU‘+5%|HP+1Z4|HP+4%|None|None--get rune
+Ll'Ue|VlO|el'II Rune (Z) 
+ —I-J 
+ Kare|AIK+11|CRIDmg +4%||AlK+8%||CRIRate +4%||||
+Can't Identify|Rare|Can't Identify|AIK+11|CRIDmg +4%|AlK+8%|CRIRate +4%|None|None--get rune
+MOITBIKeven: 
+ ge Kune (3) 
+ -I-J 
+ Kare|HP+1/U|LRIRate +4%||Dbl‘+15||HP
+ _Jl') _1_'7(] 
+ 7%||||
+Can't Identify|Rare|3|HP+1/U|LRIRate +4%|Dbl‘+15|HP _Jl') _1_'7(]  7%|None|None--get rune
+Energy Refill
+MO|'IalFOCUS KUl'1e (D) 
+ Kare|Accuracy+53%|LRIRate +5%||Ul:l'+b%||SPD+5||||
+Can't Identify|Rare|1|Accuracy+53%|LRIRate +5%|Ul:l'+b%|SPD+5|None|None--get rune
+|l’lIl'lCaIeDnlel? KUl'le (4) 
+ F18l'O|A|K+'l5|Accuracy
+ V +5% 
+ _LI;l.'||Ul:l'+5%||CRIRate 
+ _LE( 
+ 5%||DEF+9||
+Can't Identify|Hero|1|A|K+'l5|Accuracy V +5%  +I;l.'|Ul:l'+5%|CRIRate  +E(  5%|DEF+9|None--get rune
+POWEDUIFOCUS RUDE (5) ' Ral’E|HP+1/U|A|K+5%||CRID 
+ +5%||CRIRate +4%||||
+Can't Identify|Rare|5|HP+1/U|A|K+5%|CRID  +5%|CRIRate +4%|None|None--get rune
+Revenge|Hero|5|UtI'+11|DI:F+5%|HP+11/|CRIRate  +E(  5%|SPD+5|None--sell rune
+FOCUSRUDE (1) 
+ F|E|'O|HP+25%|||Dl:F+15||ATK+7% 
+ V _1_'7C||7%
+ Accuracy||
+Can't Identify|Hero|1|HP+25%|None|Dl:F+15|ATK+7%  V _1_'7C|7% Accuracy|None--get rune
+VIOIEDIRUDE U) 
+ Ra|'E|A|K+'l5|||CRID 
+ +5%||HP+5||||
+Rage|Rare|Can't Identify|A|K+'l5|None|CRID  +5%|HP+5|None|None--get rune
+RESISIBDIVIOIEDI RUDE (1) 
+ HETO|HP+25%|RESlSIaDCE+b%||AlK+5%
+ .Ll-‘ll||ATK+8||CRIRate +4%||
+Can't Identify|Hero|1|HP+25%|RESlSIaDCE+b%|AlK+5% .Ll-‘ll|ATK+8|CRIRate +4%|None--get rune
+Rage|Rare|1|UtF+15|A|K+4%|bPU+5|Resistance _n_E(l  5%|None|None--sell rune
+REVEDgERUDE (3) 
+ i_egeno|HP+1/U|||AlK+4%||CRID 
+ +5%||SPD+3||CRIRate +3%
+Can't Identify|Legend|3|HP+1/U|None|AlK+4%|CRID  +5%|SPD+3|CRIRate +3%--get rune
+DIU|'ClyDDIEIO RUDE (D) 
+ F1El'O|HP+5bU|Dtl'+15||tccuracy+4%||CRID 
+ mg +5%||Resistance+6%||
+Can't Identify|Hero|1|HP+5bU|Dtl'+15|tccuracy+4%|CRID  mg +5%|Resistance+6%|None--get rune
+Energy Refill
+DDIEIORUDE (J) ‘Raf E|UtI'+11|||Dl:F+b%||Accuracy
+ _L'7(l 
+ 7%||||
+Rage|Rare|Can't Identify|UtI'+11|None|Dl:F+b%|Accuracy +'7(l  7%|None|None--get rune

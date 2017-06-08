@@ -1,0 +1,1 @@
+Shield|Hero|6|AccuracAccuracy+12%|None|HP+5%|DEF+10|DEF+|None--sell rune

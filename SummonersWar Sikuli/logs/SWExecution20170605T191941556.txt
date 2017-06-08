@@ -1,0 +1,4 @@
+||||HP+177||:1+4%||||
+Can't Identify|Rare|Can't Identify|None|None|HP+177|:1+4%|None|None--get rune
+Success: 1/1(100)
+Failure: 0/1(0)

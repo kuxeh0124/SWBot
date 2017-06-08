@@ -1,0 +1,1 @@
+Violent|Rare|5|HP+270|ATK 7%  _.L|CRIDmg +5%|HP+6%|None|None--sell rune

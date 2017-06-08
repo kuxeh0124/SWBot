@@ -1,0 +1,75 @@
+VampireRune (2) 
+ O 
+ An 
+ TEHBCIOUS|DEF+22|4.2
+ ‘I’:||Accuracy+8%||SPD+4||||
+Can't Identify|Rare|2|DEF+22|4.2 ‘I’:|Accuracy+8%|SPD+4|None|None--get rune
+PowerfulDestroy Rune (1) 
+ Hero|ATK+15|ATK+4%||SPD+4||Accuracy+6%||HP+1 60||
+Can't Identify|Hero|1|ATK+15|ATK+4%|SPD+4|Accuracy+6%|HP+1 60|None--get rune
+Mortal\ 
+ Vampire Rune (2)|SPD+7|CRIRate +6%||DEF+20||ATK+11||||
+Can't Identify|Rare|2|SPD+7|CRIRate +6%|DEF+20|ATK+11|None|None--get rune
+Nemesis|Hero|4|CRIRate +5%|HP+272|7% ATK  +|DEF+7%|ATK+12|None--sell rune
+VampireRune (4) 
+ Hero|DEF+8%|||SPD+4||DEF+15||ATK
+ 7%||
+Can't Identify|Hero|4|DEF+8%|None|SPD+4|DEF+15|ATK 7%|None--get rune
+IntricateDestroy Rune (1) - Rare|ATK+15|Accuracy+4%||CRIRate +3%||Resistance||||
+Can't Identify|Rare|1|ATK+15|Accuracy+4%|CRIRate +3%|Resistance|None|None--get rune
+Energy Refill
+DestroyRune (1) 
+ Rare 
+ UH|ATK+15|||5%
+ .1.||SPD+3||||
+Can't Identify|Rare|1|ATK+15|None|5% .1.|SPD+3|None|None--get rune
+DestroyRune (5) 
+ Hero|HP+270|||SPD+5||DEF+12||ATK
+ 5%||
+Can't Identify|Hero|5|HP+270|None|SPD+5|DEF+12|ATK 5%|None--get rune
+Will|Rare|2|HP+270|SPD+3|DEF+12|3% Accuracy  +'.'J|None|None--sell rune
+Nemesis|Rare|1|ATK+15|4.2 "I’:|Accuracy+4%|Resistance+4%|None|None--sell rune
+Nemesis|Rare|5|HP+270|None|DEF+15|ATK+12|None|None--sell rune
+Will|Rare|1|HP+270|None|CRIDmg +5%|DEF+11|None|None--sell rune
+Will|Hero|3|DEF+15|SPD+4|HP+4%|CRIDmg +4%|Accuracv|None--sell rune
+Nemesis|Rare|3|DEF+22|None|SPD+4|CRIDmg +4%|None|None--sell rune
+DestroyRune (5) 
+ Rare 
+ UH|HP+270|||7%
+ ATK 
+ _L||HP+6%||||
+Can't Identify|Rare|5|HP+270|None|7% ATK  +|HP+6%|None|None--get rune
+DestroyRune (1) 
+ Rare 
+ UH|ATK+15|||Resistance+3% 
+ n.l.'2||5%
+ Accuracy||||
+Can't Identify|Rare|1|ATK+15|None|Resistance+3%  n.l.'2|5% Accuracy|None|None--get rune
+DestroyRune (1) 
+ Rare 
+ UH|ATK+15|||CRIRate +5%||Resistance+3%||||
+Can't Identify|Rare|1|ATK+15|None|CRIRate +5%|Resistance+3%|None|None--get rune
+Rage|Rare|4|HP+270|CRIDmg +4%|Resistance+5%  n..L|DEF+8|None|None--sell rune
+Energy Refill
+DestroyRune (5) 
+ Rare 
+ UH|HP+270|||Resistance+5% 
+ n..L||DEF+14||||
+Can't Identify|Rare|5|HP+270|None|Resistance+5%  n..L|DEF+14|None|None--get rune
+Nemesis|Rare|3|DEF+22|CRIRate +6%|SPD+5|HP 7%|None|None--sell rune
+Nemesis|Hero|5|HP+270|None|ATK 15  +|CRIRate  5%|AccuracAccuracy+4%|None--sell rune
+Nemesis|Hero|3|DEF+15|None|CRIDmg +5%|CRIRate +4%|SPD+5|None--get rune
+Nemesis|Rare|6|DEF+15|Accuracy+S%|HP+7%|CRIRate +4%|None|None--sell rune
+ResistantDestroy Rune (3)|DEF+15|Resistance+5%||HP+90||CRIRate 
+ 3%||||
+Can't Identify|Rare|3|DEF+15|Resistance+5%|HP+90|CRIRate  3%|None|None--get rune
+Nemesis|Rare|4|DEF+8%|None|DEF+8|3% Accuracy  +’.'J|None|None--sell rune
+Nemesis|Rare|5|HP+270|None|Resistance+6%  n..L|ATK+5%|None|None--sell rune
+Nemesis|Legend|6|DEF+8%|SPD+3|DEF+8|Resistance|ATK+6%|CRIDmg +3%--sell rune
+Will|Hero|4|HP+360|ATK 12  +|CRIRate +4%|DEF+8%|DEF+18|None--sell rune
+DurableRa 
+ Rune (4)|HP+8%|DEF+7%||HP+246||7%
+ Accuracy||||
+Can't Identify|Rare|4|HP+8%|DEF+7%|HP+246|7% Accuracy|None|None--get rune
+Energy Refill
+Will|Rare|6|AccuracAccuracy+9%|ATK+4%|Resistance+7%  n..L|SPD+5|None|None--sell rune

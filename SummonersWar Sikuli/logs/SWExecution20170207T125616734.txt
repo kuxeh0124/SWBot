@@ -1,0 +1,1 @@
+Violent|Rare|4|DEF+15|ATK+6%|CRIDmg +3%|CRIRate  3%|None|None--sell rune

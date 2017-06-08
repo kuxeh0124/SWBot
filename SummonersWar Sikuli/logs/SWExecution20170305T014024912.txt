@@ -1,0 +1,13 @@
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)
+Success: 3/3(100)
+Failure: 0/3(0)
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 4/4(100)
+Failure: 0/4(0)
+Success: 5/5(100)
+Failure: 0/5(0)

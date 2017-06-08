@@ -1,0 +1,26 @@
+Energy|Hero|5|HP+270|None|DEF+13|Resistance+3%|AccuracAccuracy+6%|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Success: 2/2(100)
+Failure: 0/2(0)
+Energy Refill
+Success: 3/3(100)
+Failure: 0/3(0)
+Success: 3/4(0)
+Failure: 1/4(0)
+Success: 4/5(0)
+Failure: 1/5(0)
+Success: 5/6(0)
+Failure: 1/6(0)
+Success: 6/7(0)
+Failure: 1/7(0)
+Blade|Rare|1|ATK+15|HP+93|CRIRate +5%|CRIDmg +3%|None|None--sell rune
+Success: 7/8(0)
+Failure: 1/8(0)
+Fatal|Rare|4|CRIDmg +11%|None|HP+8%|DEF+5%|None|None--get rune
+Success: 8/9(0)
+Failure: 1/9(0)
+Success: 8/10(0)
+Failure: 2/10(0)
+Success: 8/11(0)
+Failure: 3/11(0)

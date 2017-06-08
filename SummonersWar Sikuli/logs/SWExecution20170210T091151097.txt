@@ -1,0 +1,10 @@
+Rage|Rare|6|HP+270|SPD+3|Resistance+5%  n..L|ATK+5%|None|None--sell rune
+Shield|Hero|5|HP+270|HP44%|13 ATK  +|CRIDmg +3%|Accuracv|None--sell rune
+Focus|Hero|6|ATK+8%|None|Resistance+3%  n.l.'2|SPD+5|HP+185|None--sell rune
+Rage|Rare|3|DEF+15|None|SPD+5|CRIDmg +4%|None|None--sell rune
+Guard|Hero|2|HP+360|None|5% .1.|DEF+|DEF+8%|None--sell rune
+Rage|Rare|5|HP+270|SPD+3|ATK 11  +|HP 7%|None|None--sell rune
+Violent|Rare|4|ATK+8%|Accuracy+S%|HP+145|DEF+6%|None|None--sell rune
+Focus|Hero|3|DEF+15|Resistance+4%|HP+6%|HP 116|CRIDmg +3%|None--sell rune
+Energy Refill
+Rage|Rare|5|HP+360|None|SPD+4|HP+5%|None|None--sell rune

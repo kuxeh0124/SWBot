@@ -1,0 +1,9 @@
+Success: 0/1(0)
+Failure: 1/1(100)
+Success: 0/2(0)
+Failure: 2/2(100)
+Success: 0/3(0)
+Failure: 3/3(100)
+Energy Refill
+Success: 1/4(0)
+Failure: 3/4(0)

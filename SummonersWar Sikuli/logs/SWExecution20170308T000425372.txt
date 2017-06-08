@@ -1,0 +1,5 @@
+Success: 1/1(100)
+Failure: 0/1(0)
+Endure|Rare|3|Rare DEF +15|Accuracy+7%|Resistance+4%  3-I-A|HP 7%|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)

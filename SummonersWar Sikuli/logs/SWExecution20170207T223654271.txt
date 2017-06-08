@@ -1,0 +1,2 @@
+Endure|Rare|2|SPD+5|None|ATK+41%|Resistance|None|None--sell rune
+Shield|Rare|3|DEF+15|HP+293|Accuracy+6%|SPD+5|None|None--sell rune

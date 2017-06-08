@@ -1,0 +1,7 @@
+QuickGuard Rune (I) 
+ Rare|ATK+15|SPD+5||CRIRate +5%||Accuracy+4%||||
+Guard|Rare|Can't Identify|ATK+15|SPD+5|CRIRate +5%|Accuracy+4%|None|None--get rune
+Violent|Legend|3|DEF+15|None|HP+241|SPD+4|CRIRate +5%|Resistance+3%  n.l.'J--sell rune
+Energy Refill
+Focus|Rare|3|DEF+11%|None|DEF+19|CRIRate  5%|None|None--sell rune
+Endure|Rare|3|DEF+15|DEF+6%|HP+7%|3% Accuracy  +'.'J|None|None--sell rune

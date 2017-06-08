@@ -1,0 +1,4 @@
+Endure|Rare|3|DEF
+ J.-In 
+ 15|Resistance
+ +'JU|BPD+4|Accuracy+3%|None|None--sell rune

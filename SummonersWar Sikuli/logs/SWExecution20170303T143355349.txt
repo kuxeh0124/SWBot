@@ -1,0 +1,24 @@
+Vampire|Rare|5|Rare HP +270|None|DEF+4%|CRIRate +4%|None|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Destroy|Rare|1|Rare ATK +15|None|Resistance+3%  n.l.'2|5% Accuracy|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)
+Rage|Hero|6|HP+11%|DEF+15|SPD+4|Accuracy+4%|HP+341|None--get rune
+Success: 3/3(100)
+Failure: 0/3(0)
+ResistantDestrot 
+ y Rune (4)|Rare
+ DEF +11%|Resistance+5%||HP+6%||CRIRate 
+ 5%||||
+Can't Identify|Rare|4|Rare DEF +11%|Resistance+5%|HP+6%|CRIRate  5%|None|None--get rune
+Success: 4/4(100)
+Failure: 0/4(0)
+Nemesis|Hero|6|HP+270|CRIDmg +4%|DEF+11|CRIRate +4%|ATK+4%|None--sell rune
+Energy Refill
+Success: 5/5(100)
+Failure: 0/5(0)
+Success: 6/6(100)
+Failure: 0/6(0)
+Success: 7/7(100)
+Failure: 0/7(0)

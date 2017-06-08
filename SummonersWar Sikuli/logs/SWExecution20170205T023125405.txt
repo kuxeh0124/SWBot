@@ -1,0 +1,6 @@
+Fatal|Rare|2|SPD+5|None|5%
+ .1.|CRIRate 
+ 3%|None|None--sell rune
+Fatal|Hero|6|DEF+15|None|DEF+6%|HP+245|SPD+3|None--sell rune
+Success Rate: 100.0%
+Failure Rate: 0.0%

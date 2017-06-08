@@ -1,0 +1,1 @@
+Endure|Rare|2|DEF+15|DEF+5%|ATK+8|5% Accuracy|None|None--sell rune

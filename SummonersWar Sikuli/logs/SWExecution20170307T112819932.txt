@@ -1,0 +1,27 @@
+Guard|Rare|5|Rare HP +270|None|SPD+5|HP+5%|None|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Success: 2/2(100)
+Failure: 0/2(0)
+Focus|Rare|6|Rare ATK +15|Resistance+4%|CRIDmg +3%|CRIRate  3%|None|None--sell rune
+Success: 3/3(100)
+Failure: 0/3(0)
+Success: 4/4(100)
+Failure: 0/4(0)
+Success: 5/5(100)
+Failure: 0/5(0)
+Endure|Rare|4|Rare HP +8%|None|SPD+4|HP 119|None|None--sell rune
+Success: 6/6(100)
+Failure: 0/6(0)
+Focus|Rare|5|Rare HP +270|None|ATK 11  +|ATK+|None|None--sell rune
+Success: 7/7(100)
+Failure: 0/7(0)
+Focus|Rare|2|Rare ATK +8%|None|Resistance+5%  n..L|SPD+5|None|None--sell rune
+Success: 8/8(100)
+Failure: 0/8(0)
+Violent|Legend|5|HP+270|None|CRIDmg +5%|HP 7%|AccuracAccuracy+4%|DEF+11--sell rune
+Success: 9/9(100)
+Failure: 0/9(0)
+Violent|Legend|4|HP+270|CRIRate +4%|DEF+8|5% Accuracy|DEF+4%|CRIDmg +4%--sell rune
+Success: 10/10(100)
+Failure: 0/10(0)

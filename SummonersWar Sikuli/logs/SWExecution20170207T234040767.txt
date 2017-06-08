@@ -1,0 +1,3 @@
+Despair|Rare|3|DEF+15|None|HP+4%|Accuracy+4%|None|None--sell rune
+Energy Refill
+Despair|Rare|5|HP+270|None|SPD+4|CRIDmg +5%|None|None--sell rune

@@ -1,0 +1,68 @@
+Will|Rare|3|DEF+15|SPD+5|CRIDmg +3%|HP 234|None|None--sell rune
+Rage|Hero|1|ATK+15|None|5% .1.|Resistance|HP+41%|None--sell rune
+DestroyRune (6) 
+ Hero|ATK+8%|||SPD+3||CRIRate 
+ 3%||Accuracv||
+Can't Identify|Hero|6|ATK+8%|None|SPD+3|CRIRate  3%|Accuracv|None--get rune
+Destroy|Rare|6|Resistance+9%|DEF+9|7% .1.|HP 223|None|None--sell rune
+Energy Refill
+Rage|Rare|5|HP+270|‘T|DEF+6%|ATK+7%|None|None--sell rune
+Rage|Hero|5|HP+270|None|ATK+8|Resistance+3%|AccuracAccuracy+6%|None--sell rune
+Rage|Rare|4|ATK+8%|None|SPD+5|HP 7%|None|None--sell rune
+Nemesis|Rare|5|HP+270|None|CRIDmg +4%|DEF+15|None|None--sell rune
+Nemesis|Hero|6|HP+270|None|7% .1.|HP+6%|Resistance+7%|None--sell rune
+Destroy|Rare|4|DEF+8%|4.2 ‘I’:|CRIRate +4%|Accuracy+4%|None|None--sell rune
+Destroy|Rare|4|CRIRate +5%|SPD+5|DEF+11|Resistance+4%|None|None--sell rune
+Destroy|Rare|4|DEF+8%|Accuracy+7%|Resistance+5%  n..L|HP 166|None|None--sell rune
+Energy Refill
+Nemesis|Rare|5|HP+270|CRIRate +4%|Accuracy+4%|ATK+9|None|None--sell rune
+Will|Rare|3|DEF+15|4.2 ‘I’:|HP+180|Accuracy+6%|None|None--sell rune
+Destroy|Rare|2|SPD+5|None|DEF+11|ATK+11|None|None--sell rune
+Destroy|Rare|4|ATK+8%|DEF+5%|7% .1.|DEF+13|None|None--sell rune
+Destroy|Rare|6|ATK+8%|4.2 "I’:|CRIRate +3%|DEF+4%|None|None--sell rune
+Nemesis|Rare|4|DEF+15|‘I’|CRIRate +4%|SPD+5|None|None--sell rune
+Nemesis|Rare|1|ATK+15|None|CRIDmg +4%|Accuracy+4%|None|None--sell rune
+Rage|Rare|2|HP+11%|None|CRIDmg +6%|HP 256|None|None--get rune
+Nemesis|Hero|2|DEF+15|None|ATK 11  +|ATK+6%|SPD+4|None--sell rune
+Nemesis|Hero|4|DEF+15|ATK+6%|Resistance+7%  n..L|Accuracy+4%|CRIDme +3%|None--sell rune
+Energy Refill
+Nemesis|Rare|1|ATK+15|SPD+5|CRIDmg +3%|HP+173|None|None--sell rune
+Rage|Rare|2|ATK+15|ATK+6%|CRIRate +5%|DEF+5%|None|None--sell rune
+Rage|Rare|5|HP+270|None|DEF+13|Accuracy+6%|None|None--sell rune
+SturdyDestroy Rune (2) 
+ f’IIK__|HP+270|DEF+13||CRIRate +5%||HP+6%||||
+Can't Identify|Rare|2|HP+270|DEF+13|CRIRate +5%|HP+6%|None|None--get rune
+Rage|Rare|2|ATK+8%|None|DEF+9|Accuracy+6%|None|None--sell rune
+Nemesis|Rare|2|DEF+15|None|ATK+5%  +|7% Accuracy|None|None--sell rune
+Rage|Rare|3|DEF+15|None|Accuracy+4%|SPD+3|None|None--sell rune
+Energy Refill
+Destroy|Rare|6|Resistance+9%|None|DEF+6%|ATK+7%|None|None--sell rune
+Destroy|Rare|1|ATK+15|None|7% .1.|HP 169|None|None--sell rune
+Nemesis|Hero|4|ATK+8%|None|HP+7%|CRIRate  3%|ATK 14|None--sell rune
+Rage|Legend|4|HP+11%|Accuracy+8%|HP+260|DEF+11|CRIRate +5%|ATK+6%--get rune
+Will|Rare|2|ATK+8%|ATK+14  _.L|Resistance+6%  n..L|DEF+7%|None|None--sell rune
+Destroy|Rare|1|ATK+15|None|CRIDmg +3%|HP 217|None|None--sell rune
+Will|Rare|3|DEF+22|SPD+6|CRIRate +4%|CRIDmg +5%|None|None--sell rune
+ResistantDestroy Rune (1)|ATK+15|Resistance+7%||CRIRate +3%||HP
+ 238||||
+Can't Identify|Rare|1|ATK+15|Resistance+7%|CRIRate +3%|HP 238|None|None--get rune
+Nemesis|Rare|4|CRIRate +5%|DEF+5%|CRIDmg +5%|ATK+9|None|None--sell rune
+Destroy|Rare|1|ATK+15|None|CRIDmg +5%|HP 112|None|None--sell rune
+Destroy|Rare|4|ATK+11%|None|SPD+6|DEF+12|None|None--get rune
+Rage|Hero|6|ATK+11%|Resistance+7%|DEF+12|CRIRate  5%|HP+295|None--get rune
+Rage|Rare|2|ATK+15|None|7% .1.|ATK+5%|None|None--sell rune
+Energy Refill
+Rage|Rare|5|HP+270|None|CRIDmg +3%|DEF+9|None|None--sell rune
+CruelDestroy Rune (3)|DEF+15|CRIDmg +||SPD+4||CRIRate +4%||||
+Can't Identify|Rare|3|DEF+15|CRIDmg +|SPD+4|CRIRate +4%|None|None--get rune
+Nemesis|Rare|3|DEF+22|HP+147|DEF+5%|HP+6%|None|None--sell rune
+Nemesis|Legend|3|DEF+15|None|CRIRate +5%|SPD+3|HP+5%|AccuracAccuracy+6%--sell rune
+Nemesis|Hero|4|ATK+8%|None|DEF+8|CRIRate  5%|SPD+3|None--get rune
+Rage|Rare|3|DEF+22|CRIRate +5%|DEF+8%|7% Accuracy|None|None--sell rune
+Rage|Rare|6|DEF+8%|None|HP+7%|ATK+9|None|None--sell rune
+Energy Refill
+Rage|Rare|3|DEF+15|None|HP+6%|HP 191|None|None--sell rune
+Nemesis|Rare|5|HP+270|None|7% ATK  +|ATK+9|None|None--sell rune
+Rage|Hero|5|HP+270|None|DEF+6%|DEF+12|CRIRate +4%|None--sell rune
+Nemesis|Legend|3|DEF+15|None|HP+5%|HP 211|Resistance+4%|DEF+7%--sell rune
+Destroy|Rare|6|ATK+22|Accuracy+6%|ATK+6%|HP 302|None|None--sell rune

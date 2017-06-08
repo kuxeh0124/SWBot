@@ -1,0 +1,60 @@
+Blade|Rare|3|DEF+22|+338|CRIRate +4%|HP+5%|None|None--sell rune
+Despair|Legend|2|DEF4-8%|None|CRIRate +5%|CRIDmg +5%|HP+298|ATK+12--sell rune
+Fatal|Legend|2|HP+8%|None|DEF+5%|CRIRate +4%|ATK+8|Resistance+4%--sell rune
+Despair|Hero|5|HP+360|None|CRIRate +5%|ATK+7%|CRIDrne +7%|None--sell rune
+Energy|Rare|1|ATK+15|None|HP+4%|SPD+5|None|None--sell rune
+Energy Refill
+Despair|Hero|4|CRIRate +5%|ATK
+ 10 
+ +|CRIDmg +5%|DEF+6%|HP+188|None--sell rune
+Blade|Hero|6|HP+8%|CRIDmg +4%|SPD+5|CRIRate 
+ 5%|Resistance+7%|None--sell rune
+Fatal|Hero|5|HP+270|None|DEF+14|CRIRate 
+ 5%|HP+4%|None--sell rune
+Energy|Legend|5|HP+270|SPD+5|ATK
+ 15 
+ +|CRIDmg +3%|Resistance+6%|CRIRate +4%--sell rune
+Fatal|Rare|1|HP+270|SPD+5|CRIRate +3%|DEF+9|None|None--sell rune
+Blade|Rare|3|DEF+15|None|CRIDmg +4%|SPD+3|None|None--sell rune
+Fatal|Rare|1|ATK+11%|SPD+4|DEF+8%|ATK+18|None|None--sell rune
+Energy|Rare|3|DEF+15|None|SPD+4|CRIRate 
+ 3%|None|None--sell rune
+Fatal|Hero|6|Resistance+12%|ATK+6%|Accuracy+6%|SPD+4|HP+254|None--sell rune
+Blade|Hero|3|DEF+15|None|DEF+7%|SPD+4|Accuracv|None--sell rune
+Energy Refill
+Energy|Rare|3|DEF+15|None|SPD+3|Resistance+3%|None|None--sell rune
+Swift|Rare|3|DEF+15|None|HP+152|CRIRate +4%|None|None--sell rune
+Blade|Hero|3|DEF+15|CRIRate +4%|HP+110|DEF+5%|Resistance+5%|None--sell rune
+Energy|Rare|5|HP+360|Accuracy+8%|CRIRate +5%|CRIDmg +4%|None|None--sell rune
+ResistantEnel 
+ Rune (I) 
+ Rare 
+ —lJ|ATK+15|Resistance+5%||CRIRate +3%||ATK+5%||||
+Can't Identify|Rare|Can't Identify|ATK+15|Resistance+5%|CRIRate +3%|ATK+5%|None|None--get rune
+Fatal|Rare|1|ATK+15|None|HP+214|ATK+4%|None|None--sell rune
+Blade|Rare|6|AccuracAccuracy+9%|None|CRIDmg +4%|HP+91|None|None--sell rune
+Swift|Rare|2|HP+270|None|HP+5%|Accuracy+6%|None|None--sell rune
+Energy Refill
+Swift|Rare|2|DEF+15|CRIRate +3%|5%
+ .1.|SPD+3|None|None--sell rune
+Fatal|Rare|6|HP+8%|CRIDmg +|3%
+ .1.|HP+136|None|None--sell rune
+Fatal|Legend|3|DEF+15|None|CRIDmg +3%|HP
+ 127|3%
+ Accuracv 
+ .1.|DEF+7%--sell rune
+IntricateEnei 
+ y Rune (4) 
+ Rare|DEF+8%|Accuracy+5%||Resistance+5%||CRIDmg +3%||||
+Can't Identify|Rare|4|DEF+8%|Accuracy+5%|Resistance+5%|CRIDmg +3%|None|None--get rune
+Energy|Rare|4|HP+8%|None|Accuracy+6%|CRIRate +4%|None|None--sell rune
+Fatal|Rare|3|DEF+15|Resistance+7%|HP+11S|DEF+6%|None|None--sell rune
+Energy Refill
+Swift|Hero|2|ATK+22|None|SPD+4|7%
+ Accuracy|HP+6%|None--sell rune
+Fatal|Rare|2|ATK+11%|None|HP+211 
+ 3.1.|Resistance+5%|None|None--sell rune
+Fatal|Rare|3|DEF+22|CRIRate +4%|HP+347|7%
+ Accuracy|None|None--sell rune
+Energy|Rare|1|ATK+15|None|3%
+ .1.|CRIDmg +5%|None|None--sell rune

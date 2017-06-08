@@ -1,0 +1,3 @@
+Guard|Normal|5|HP ‘I60|None|None|None|None|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)

@@ -1,0 +1,1 @@
+Guard|Rare|5|HP+360|None|ATK+8%|CRIRate  5%|None|None--sell rune

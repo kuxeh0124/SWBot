@@ -1,0 +1,4 @@
+Shield|Rare|6|ATK+8%|DEF+4%|SPD+4|HP+6%|None|None--sell rune
+Revenge|Rare|1|ATK+22|None|5%
+ .1.|CRIDmg +5%|None|None--sell rune
+Violent|Hero|2|DEF+8%|Accuracy+S%|DEF+12|ATK+4%|CRIRate +4%|None--sell rune

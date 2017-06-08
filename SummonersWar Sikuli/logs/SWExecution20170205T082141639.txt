@@ -1,0 +1,1 @@
+Despair|Legend|1|ATK15|None|SPD+4|CRIDmg +3%|ATK+6%|AccuracAccuracy+6%--get rune

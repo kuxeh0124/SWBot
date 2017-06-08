@@ -1,0 +1,1 @@
+|DEF+8°/o|ATK+4°/o||DEF+8||CRIRate +4%||HP+162||

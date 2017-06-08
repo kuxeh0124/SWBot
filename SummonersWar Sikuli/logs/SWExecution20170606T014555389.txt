@@ -1,0 +1,73 @@
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 1/1(100)
+Failure: 0/1(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 2/2(100)
+Failure: 0/2(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 3/3(100)
+Failure: 0/3(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 4/4(100)
+Failure: 0/4(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 5/5(100)
+Failure: 0/5(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 6/6(100)
+Failure: 0/6(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 7/7(100)
+Failure: 0/7(0)
+Dn||ATK+4°/o||||||||
+Can't Identify|Normal|Can't Identify|None|ATK+4°/o|None|None|None|None--get rune
+Success: 8/8(100)
+Failure: 0/8(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 9/9(100)
+Failure: 0/9(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 10/10(100)
+Failure: 0/10(0)
+Success: 11/11(100)
+Failure: 0/11(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 12/12(100)
+Failure: 0/12(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 13/13(100)
+Failure: 0/13(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Energy Refill
+Success: 14/14(100)
+Failure: 0/14(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 15/15(100)
+Failure: 0/15(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 16/16(100)
+Failure: 0/16(0)
+Success: 17/17(100)
+Failure: 0/17(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 18/18(100)
+Failure: 0/18(0)
+||||||||||
+Can't Identify|Normal|Can't Identify|None|None|None|None|None|None--get rune
+Success: 19/19(100)
+Failure: 0/19(0)

@@ -1,0 +1,19 @@
+Success: 1/1(100)
+Failure: 0/1(0)
+Guard|Rare|4|Rare CRI Rate +5%|HP+4%|DEF+7%|Resistance 5%|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)
+Violent|Rare|2|Rare ATK +8%|None|Accuracy+4%|SPD+5|None|None--sell rune
+Success: 3/3(100)
+Failure: 0/3(0)
+Revenge|Rare|4|Rare CRI Dmg +8%|None|SPD+3|HP+4%|None|None--sell rune
+Success: 4/4(100)
+Failure: 0/4(0)
+Success: 5/5(100)
+Failure: 0/5(0)
+Guard|Hero|5|HP+270|Resistance+5%|CRIRate +5%|ATK+|ATK+4%|None--sell rune
+Success: 6/6(100)
+Failure: 0/6(0)
+Shield|Rare|3|Rare DEF +15|CRIRate +3%|CRIDmg +5%|HP 283|None|None--sell rune
+Success: 7/7(100)
+Failure: 0/7(0)

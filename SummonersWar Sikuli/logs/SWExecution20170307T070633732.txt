@@ -1,0 +1,29 @@
+Revenge|Normal|1|ATK+10|None|None|None|None|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Revenge|Normal|1|ATK+15|None|None|None|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)
+Revenge|Normal|1|ATK+7|None|None|None|None|None--sell rune
+Energy Refill
+Success: 3/3(100)
+Failure: 0/3(0)
+Revenge|Normal|1|ATK+7|None|None|None|None|None--sell rune
+Success: 4/4(100)
+Failure: 0/4(0)
+Revenge|Magic|1|ATK 10  ?|None|HP+5%|None|None|None--sell rune
+Success: 5/5(100)
+Failure: 0/5(0)
+Success: 6/6(100)
+Failure: 0/6(0)
+Success: 7/7(100)
+Failure: 0/7(0)
+Success: 8/8(100)
+Failure: 0/8(0)
+Success: 9/9(100)
+Failure: 0/9(0)
+ResistantR 
+ levenge Rune (1)|ATK+10|Resistance+3%||||||||
+Can't Identify|Normal|1|ATK+10|Resistance+3%|None|None|None|None--get rune
+Success: 10/10(100)
+Failure: 0/10(0)

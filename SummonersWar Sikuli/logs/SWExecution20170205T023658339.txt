@@ -1,0 +1,8 @@
+Fatal|Rare|3|DEF+15|Resistance+4%|CRIDmg +3%|DEF+5%|None|None--sell rune
+Swift|Rare|3|ATK+11%|CRIDmg +|DEF+12|5%
+ Accuracy|None|None--sell rune
+Fatal|Rare|1|ATK+15|None|5%
+ .1.|HP+6%|None|None--sell rune
+Energy Refill
+Success Rate: 100.0%
+Failure Rate: 0.0%

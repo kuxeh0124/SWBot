@@ -1,0 +1,1 @@
+Endure|Rare|4|ATK+15|Accuracy+S%|SPD+5|Resistance|None|None--sell rune

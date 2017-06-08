@@ -1,0 +1,45 @@
+Revenge|Hero|6|HP+270|Resistance+7%|CRIRate +3%|DEF+4%|Accuracv|None--sell rune
+Rage|Rare|5|HP+270|None|HP+4%|DEF+4%|None|None--sell rune
+Shield|Legend|3|DEF+15|HP+ l')_l_|3% .1.|Resistance|HP+268|CRIRate +3%--sell rune
+Revenge|Rare|4|DEF+15|ATK 7%  _.L|HP+%|HP 7%|None|None--sell rune
+Focus|Hero|3|DEF+22|Resistance+5%|5% .1.|CRIDmg +4%|SPD+6|None--sell rune
+Endure|Hero|3|DEF+15|CRIDmg +5%|SPD+5|HP 201|CRIRate +3%|None--sell rune
+Rage|Rare|2|SPD+5|None|CRIRate +5%|ATK+11|None|None--sell rune
+Rage|Rare|5|HP+270|DEF+6%|ATK 15  +|DEF+14|None|None--sell rune
+Rage|Rare|3|DEF+15|None|SPD+4|CRIRate  3%|None|None--sell rune
+Energy Refill
+Focus|Rare|1|ATK+15|Accuracy+4%|ATK+5%  +|CRIDmg +4%|None|None--sell rune
+Rage|Rare|1|ATK+15|HP+7%|CRIDmg +5%|Resistance 5%|None|None--sell rune
+Rage|Rare|6|ATK+8%|CRIDmg +|3% .1.|CRIRate  5%|None|None--sell rune
+Shield|Hero|6|DEF+15|None|CRIRate +5%|ATK+11|SPD+5|None--sell rune
+Shield|Hero|4|CRIDmg +8%|None|DEF+4%|Resistance+3%|CRIRate +5%|None--sell rune
+Rage|Rare|4|CRIRate +5%|HP+4%|DEF+12|Accuracy+4%|None|None--sell rune
+Rage|Rare|4|ATK+22|None|HP+6%|SPD+6|None|None--sell rune
+TenaciousGuard Rune 
+ Rai|DEF+15|HP+7%||CRIRate +3%||5%
+ Accuracy||||
+Rage|Rare|Can't Identify|DEF+15|HP+7%|CRIRate +3%|5% Accuracy|None|None--get rune
+Revenge|Rare|5|HP+270|ATK 7%  _.L|DEF+10|CRIRate  5%|None|None--sell rune
+Energy Refill
+Endure|Hero|1|ATK+22|HP+253|HP+8%|Resistance 5%|CRIDrne +7%|None--sell rune
+Rage|Rare|5|HP+360|None|HP+8%|ATK+14|None|None--sell rune
+Rage|Rare|3|DEF+15|None|SPD+5|CRIDmg +3%|None|None--sell rune
+Rage|Rare|2|ATK+8%|None|HP+6%|Accuracy+6%|None|None--sell rune
+Focus|Rare|3|HP+360|None|HP+5%|ATK+16|None|None--sell rune
+Rage|Rare|6|Resistance+12%|CRIRate +6%|Accuracy+6%|ATK+7%|None|None--sell rune
+Guard|Rare|3|DEF+15|CRIDmg +4%|DEF+4%|SPD+5|None|None--sell rune
+Violent|Legend|3|DEF+22|None|CRIDmg +7%|CRIRate +4%|HP+6%|AccuracAccuracy+6%--get rune
+Energy Refill
+Shield|Hero|6|ATK+15|ATK+4%|DEF+5%|CRIRate  5%|Accuracv|None--sell rune
+Focus|Rare|3|DEF+15|DEF+4%|CRIRate +3%|HP+5%|None|None--sell rune
+Rage|Rare|6|HP+8%|None|3% .1.|ATK+|None|None--sell rune
+Rage|Rare|2|ATK+15|None|Resistance+6%  n..L|DEF+5%|None|None--sell rune
+Rage|Rare|2|SPD+5|None|DEF+5%|7% Accuracy|None|None--sell rune
+Revenge|Legend|2|DEF+22|ATK+8%|HP+335|DEF+6%|ATK 19|AccuracAccuracy+7%--sell rune
+Violent|Hero|3|DEF+15|HP+|Resistance+4%  cs-I-A|5% Accuracy|SPD+4|None--sell rune
+Revenge|Hero|3|DEF+15|CRIRate +5%|HP+194|Resistance 5%|SPD+3|None--sell rune
+Energy Refill
+Guard|Rare|5|HP+360|Accuracy+7%|CRIDmg +4%|HP+6%|None|None--sell rune
+Revenge|Hero|5|HP+270|None|ATK 14  +|ATK+|Accuracv|None--sell rune
+Revenge|Rare|4|ATK+15|Resistance+7%|HP+6%|HP+%|None|None--sell rune
+Guard|Rare|4|CRIRate +5%|None|ATK 14  +|DEF+14|None|None--sell rune

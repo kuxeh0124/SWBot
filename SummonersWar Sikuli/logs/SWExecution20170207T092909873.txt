@@ -1,0 +1,99 @@
+RevengeRune (1) 
+ Normal|ATK+10|||||||||
+Revenge|Can't Identify|1|ATK+10|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+10|||||||||
+Revenge|Can't Identify|1|ATK+10|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+10|||||||||
+Revenge|Can't Identify|1|ATK+10|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+10|||||||||
+Revenge|Can't Identify|1|ATK+10|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+TenaciousRevenge Rune (1) 
+ Normal|ATK+15|HP+4%||||||||
+Revenge|Can't Identify|1|ATK+15|HP+4%|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+Energy Refill
+RevengeRune (1) 
+ Normal|ATK+10|||||||||
+Revenge|Can't Identify|1|ATK+10|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+Revenge|Magic|1|ATK 10|None|Accuracy+4%|None|None|None--sell rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+Revenge|Magic|1|ATK+7|None|HP+155|None|None|None--sell rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+10|||||||||
+Revenge|Can't Identify|1|ATK+10|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+10|||||||||
+Revenge|Can't Identify|1|ATK+10|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+10|||||||||
+Revenge|Can't Identify|1|ATK+10|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+Revenge|Magic|1|ATK 10|None|Resistance+2%  n..L|None|None|None--sell rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+Revenge|Magic|1|ATK 10|None|CRIRate +3%|None|None|None--sell rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+Energy Refill
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+15|||||||||
+Revenge|Can't Identify|1|ATK+15|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+15|||||||||
+Revenge|Can't Identify|1|ATK+15|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune
+RevengeRune (1) 
+ Normal|ATK+7|||||||||
+Revenge|Can't Identify|1|ATK+7|None|None|None|None|None--get rune

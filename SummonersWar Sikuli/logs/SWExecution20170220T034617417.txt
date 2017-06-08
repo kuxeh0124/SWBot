@@ -1,0 +1,117 @@
+Destroy|Rare|6|HP+360|None|DEF+6%|ATK+7%|None|None--sell rune
+Success: 1/1(100)
+Failure: 0/1(0)
+Nemesis|Rare|1|ATK+15|HP+91|SPD+5|CRIRate +4%|None|None--sell rune
+Success: 2/2(100)
+Failure: 0/2(0)
+Will|Rare|1|HP+8%|None|ATK+41%|CRIDmg +4%|None|None--sell rune
+Success: 3/3(100)
+Failure: 0/3(0)
+Success: 4/4(100)
+Failure: 0/4(0)
+Success: 5/5(100)
+Failure: 0/5(0)
+Nemesis|Rare|4|DEF+11%|None|CRIDmg +4%|SPD+5|None|None--sell rune
+Success: 6/6(100)
+Failure: 0/6(0)
+Success: 7/7(100)
+Failure: 0/7(0)
+Energy Refill
+Success: 8/8(100)
+Failure: 0/8(0)
+Success: 9/9(100)
+Failure: 0/9(0)
+Success: 9/10(0)
+Failure: 1/10(0)
+Success: 10/11(0)
+Failure: 1/11(0)
+Rage|Rare|3|DEF+15|4.2 ‘I’:|HP+240|Resistance+3%|None|None--sell rune
+Success: 11/12(0)
+Failure: 1/12(0)
+Success: 12/13(0)
+Failure: 1/13(0)
+Success: 13/14(0)
+Failure: 1/14(0)
+Success: 14/15(0)
+Failure: 1/15(0)
+Vampire|Rare|2|HP+270|None|CRIDmg +5%|DEF+7%|None|None--sell rune
+Success: 15/16(0)
+Failure: 1/16(0)
+Success: 16/17(0)
+Failure: 1/17(0)
+Rage|Rare|3|DEF+15|‘T|DEF+4%|Resistance|None|None--sell rune
+Success: 17/18(0)
+Failure: 1/18(0)
+Will|Rare|1|ATK+15|SPD+3|HP+295|7% Accuracy|None|None--sell rune
+Success: 18/19(0)
+Failure: 1/19(0)
+Success: 19/20(0)
+Failure: 1/20(0)
+Energy Refill
+Success: 20/21(0)
+Failure: 1/21(0)
+Nemesis|Rare|5|HP+270|DEF+15|ATK+6%|SPD+5|None|None--sell rune
+Success: 21/22(0)
+Failure: 1/22(0)
+Nemesis|Rare|4|DEF+15|None|7% .1.|DEF+6%|None|None--sell rune
+Success: 22/23(0)
+Failure: 1/23(0)
+Vampire|Rare|6|ATK+15|None|DEF+13|CRIRate  3%|None|None--sell rune
+Success: 23/24(0)
+Failure: 1/24(0)
+Will|Rare|6|AccuracAccuracy+9%|CRIDmg +4%|DEF+4%|HP 206|None|None--sell rune
+Success: 24/25(0)
+Failure: 1/25(0)
+Success: 25/26(0)
+Failure: 1/26(0)
+Vampire|Rare|5|HP+270|DEF+12|CRIDmg +5%|Resistance+3%|None|None--sell rune
+Success: 26/27(0)
+Failure: 1/27(0)
+Destroy|Hero|6|HP+8%|None|HP+234|SPD+5|AccuracAccuracy+4%|None--sell rune
+Success: 27/28(0)
+Failure: 1/28(0)
+Destroy|Rare|4|ATK+15|None|DEF+7%|SPD+5|None|None--sell rune
+Success: 28/29(0)
+Failure: 1/29(0)
+Success: 29/30(0)
+Failure: 1/30(0)
+Success: 30/31(0)
+Failure: 1/31(0)
+Vampire|Rare|6|HP+8%|None|7% .1.|ATK+10|None|None--sell rune
+Success: 31/32(0)
+Failure: 1/32(0)
+Success: 32/33(0)
+Failure: 1/33(0)
+Destroy|Hero|3|DEF+15|None|DEF+7%|7% Accuracy|CRIDmg +3%|None--sell rune
+Success: 33/34(0)
+Failure: 1/34(0)
+Will|Rare|1|DEF+15|None|DEF+6%|7% Accuracy|None|None--sell rune
+Energy Refill
+Success: 34/35(0)
+Failure: 1/35(0)
+Success: 35/36(0)
+Failure: 1/36(0)
+Nemesis|Rare|5|HP+270|SPD+4|Resistance+6%  n..L|CRIDmg +4%|None|None--sell rune
+Success: 36/37(0)
+Failure: 1/37(0)
+Vampire|Rare|3|DEF+22|None|HP+6%|Resistance+4%|None|None--sell rune
+Success: 37/38(0)
+Failure: 1/38(0)
+Success: 37/39(0)
+Failure: 2/39(0)
+Destroy|Hero|6|HP+270|Accuracy+7%|DEF+5%|CRIRate  3%|DEF+11|None--sell rune
+Success: 38/40(0)
+Failure: 2/40(0)
+Will|Hero|4|ATK+15|ATK 7%  +|DEF+5%|DEF+10|CRIDmg +5%|None--sell rune
+Success: 39/41(0)
+Failure: 2/41(0)
+Nemesis|Rare|6|ATK+11%|None|DEF+16|HP+145|None|None--get rune
+Success: 40/42(0)
+Failure: 2/42(0)
+Success: 40/43(0)
+Failure: 3/43(0)
+Success: 41/44(0)
+Failure: 3/44(0)
+Will|Rare|1|HP+270|None|HP+6%|DEF+14|None|None--sell rune
+Success: 42/45(0)
+Failure: 3/45(0)

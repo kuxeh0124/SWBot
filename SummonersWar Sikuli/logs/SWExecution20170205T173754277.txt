@@ -1,0 +1,53 @@
+Energy|Rare|3|DEF+15|None|DEF+7%|Resistance|None|None--sell rune
+Energy Refill
+Blade|Rare|2|ATK+8%|None|HP+197|DEF+6%|None|None--sell rune
+Fatal|Rare|2|ATK+15|None|HP+273|CRIRate 
+ 5%|None|None--sell rune
+Swift|Rare|4|ATK+15|None|HP+273|Resistance|None|None--sell rune
+Energy|Hero|5|HP+270|None|DEF+6%|DEF+10|CRIDmg +3%|None--sell rune
+Fatal|Rare|3|DEF+15|None|HP+4%|CRIRate 
+ 3%|None|None--sell rune
+Swift|Rare|5|HP+270|DEF+13|SPD+5|HP+4%|None|None--sell rune
+Swift|Rare|5|HP+270|None|SPD+4|DEF+6%|None|None--sell rune
+Swift|Rare|3|DEF+15|HP+238|HP+7%|DEF+7%|None|None--sell rune
+Swift|Hero|1|ATK+15|None|Resistance+7% 
+ n..L|ATK+4%|HP+188|None--sell rune
+Energy Refill
+Swift|Rare|2|ATK+8%|Resistance+3%|DEF+11|Accuracy+6%|None|None--sell rune
+Blade|Rare|5|HP+270|None|HP+4%|CRIDmg +4%|None|None--sell rune
+Energy|Rare|3|DEF+15|None|3%
+ .1.|CRIRate 
+ 3%|None|None--sell rune
+Energy|Rare|1|ATK+15|None|Accuracy+6%|ATK+4%|None|None--sell rune
+Energy|Rare|2|HP+8%|None|ATK+5% 
+ +|SPD+5|None|None--sell rune
+Swift|Hero|3|DEF+15|None|HP+4%|DEF+6%|HP+250|None--sell rune
+Energy Refill
+Fatal|Rare|5|HP+360|Resistance+6%|Accuracy+6%|HP+8%|None|None--sell rune
+Swift|Hero|2|DEF+8%|None|ATK+4%|SPD+5|ATK
+ 14|None--sell rune
+Blade|Hero|6|Resistance+9%|None|DEF+5%|CRIDmg +3%|AccuracAccuracy+6%|None--sell rune
+Blade|Rare|1|HP+11%|None|CRIDmg +7%|ATK+5%|None|None--sell rune
+Blade|Hero|1|ATK+15|Accuracy+S%|HP+7%|HP
+ 285|CRIDmiz +4%|None--sell rune
+Fatal|Rare|1|ATK+15|Accuracy+3%|ATK+6%|HP
+ 189|None|None--sell rune
+Fatal|Hero|1|ATK+15|None|SPD+3|3%
+ Accuracy 
+ +'.'J|CRIDmiz +4%|None--sell rune
+Despair|Rare|1|ATK+15|HP+146|Resistance+5% 
+ n..L|7%
+ Accuracy|None|None--sell rune
+Fatal|Rare|3|DEF+15|None|SPD+5|HP
+ 278|None|None--sell rune
+Energy Refill
+Fatal|Rare|6|Accuracy+9%|HP+227|HP+4%|CRIDmg +4%|None|None--sell rune
+Despair|Hero|5|HP+270|CRIRate +4%|DEF+7%|ATK+11|DEF+15|None--sell rune
+Despair|Rare|1|ATK+15|SPD+3|CRIRate +5%|ATK+4%|None|None--sell rune
+Swift|Hero|2|DEF+22|DEF+8%|Accuracy+8%|HP
+ 300|HP+6%|None--sell rune
+Fatal|Hero|6|Accuracy+9%|CRIDmg +5%|CRIRate +3%|Resistance+4%|DEF+5‘|None--sell rune
+Energy Refill
+Swift|Rare|3|ATK+15|ATK+5%|DEF+12|HP
+ 257|None|None--sell rune
+Despair|Rare|6|ATK+8%|DEF+12|SPD+3|Accuracy+6%|None|None--sell rune

@@ -1,0 +1,2 @@
+Endure|Rare|3|DEF+15|CRIRate +5%|Resistance+5%  n..L|DEF+4%|None|None--sell rune
+Violent|Rare|5|HP+270|None|5% .1.|CRIRate +4%|None|None--sell rune
