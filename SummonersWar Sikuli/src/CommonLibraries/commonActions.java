@@ -11,7 +11,10 @@ import java.io.FileInputStream;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.time.LocalDateTime;
+import java.util.Date;
 import java.util.Properties;
 
 import javax.imageio.ImageIO;
@@ -271,6 +274,9 @@ public class commonActions {
 		if(runeStat.contains("ATK") && runeStat.contains("96")){
 			runeStat = runeStat.replace("96", "%");
 		}
+		if(runeStat.contains("CRlRate")){
+			runeStat = runeStat.replace("CRlRate", "CRIRate");
+		}
 		if((runeStat.contains("Accuracy+")|| runeStat.contains("Accuracv+") || runeStat.contains("v+") || runeStat.contains("Accuracv")) 
 				&& runeStat.contains("96")) {
 			runeStat = runeStat.replace("96", "%");
@@ -296,6 +302,9 @@ public class commonActions {
 		if(runeStat.contains("96")){
 			runeStat = runeStat.replace("96", "%");
 		}
+		if(runeStat.contains("0/u")){
+			runeStat = runeStat.replace("0/u", "%");
+		}
 		if(runeStat.contains("°/a")){
 			runeStat = runeStat.replace("°/a", "%");
 		}
@@ -314,7 +323,12 @@ public class commonActions {
 		if(runeStat.contains("\"/o")){
 			runeStat = runeStat.replace("\"/o", "%");
 		}		
-		
+		if(runeStat.contains("“/o")) {
+			runeStat = runeStat.replace("“/o", "%");			
+		}
+		if(runeStat.contains("”/o")) {
+			runeStat = runeStat.replace("”/o", "%");			
+		}					
 		if(runeStat.contains("°/o")){
 			runeStat = runeStat.replace("°/o", "%");
 		}		
@@ -330,16 +344,49 @@ public class commonActions {
 		if(runeStat.contains("_H1 lP")){
 			runeStat = runeStat.replace("_H1 lP", "HP");
 		}			
+		if(runeStat.contains("cmDmg +3")) {
+			runeStat = runeStat.replace("cmDmg +3", "CRIDmg+8%");
+		}
+		if(runeStat.contains("cmDmg")) {
+			runeStat = runeStat.replace("cmDmg", "CRIDmg");
+		}		
+		if(runeStat.contains("\"/u")) {
+			runeStat = runeStat.replace("\"/u", "%");
+		}
+		if(runeStat.contains("HeS|SIal'lC€")) {
+			runeStat = runeStat.replace("HeS|SIal'lC€", "Resistance");
+		}
+		if(runeStat.contains("LJHIUmg")) {
+			runeStat = runeStat.replace("LJHIUmg", "CRIDmg");
+		}
 		if(runeStat.length()==0){
 			runeStat = "None";
+		}		
+		if(runeStat.contains("‘7o")) {
+			runeStat = runeStat.replace("‘7o", "%");			
 		}
+		if(runeStat.contains("‘7o")) {
+			runeStat = runeStat.replace("‘7o", "%");			
+		}
+		if(runeStat.contains("Hl\"")) {
+			runeStat = runeStat.replace("Hl\"", "HP");
+		}		
+		if(runeStat.contains("°/o")) {
+			runeStat = runeStat.replace("°/o", "%");
+		}						
+		if(runeStat.contains("UHIHale")) {
+			runeStat = runeStat.replace("UHIHale", "CRIRate");
+		}				
+		if(runeStat.contains("/-\\lK")) {
+			runeStat = runeStat.replace("/-\\lK", "ATK");
+		}		
 		runeStat = runeStat.replace("\n", "").replace("\r", "");
 		return runeStat;
 		
 	}
 	
 	public static void focusApp(String AppName) throws Exception {
-		App.focus(AppName);
+		App.focus(AppName);		
 		//existClick(pathComDun+"tvOkayButton.png");
 		//setScreenRegion().click(pathWindow+"upperLeftCorner.png");
 	}
@@ -419,22 +466,10 @@ public class commonActions {
 		return retVal;
 	}
 	
-	public static void resizeMobizen() throws Exception{
-		int gx = s.find(pathWindow+"upperLeftCorner.png").x;		
-		s.find(pathWindow+"upperLeftCorner.png").hover();
-		System.out.println(Env.getMouseLocation().toString());
-		s.find(pathWindow+"upperLeftCorner.png").mouseMove(Env.getMouseLocation().offset(-30,-14));	
-		s.mouseDown(Button.LEFT);
-		s.wait(0.5);
-		s.mouseMove(Env.getMouseLocation().offset(-350,-350));
-		s.wait(0.5);
-		s.mouseUp(Button.LEFT);
-	}
-	
 	public static void initializeRegions() throws Exception{
 		setScreenRegion();
 		getRuneRegionCoordinates();
-		getCrystalCoordinatesZaiross();
+		//getCrystalCoordinatesZaiross();
 	}
 	
 	public static Region setScreenRegion() throws Exception{			
@@ -446,6 +481,7 @@ public class commonActions {
 		//Upper Left Window Corner
 		int uLRWx = s.find(pathWindow+"upperLeftCorner.png").x;
 		int uLRWy = s.find(pathWindow+"upperLeftCorner.png").y;
+		int uLRWh = s.find(pathWindow+"upperLeftCorner.png").h;
 		
 		//Bottom Right Window Corner
 		int bRRWx = s.find(pathWindow+"lowerRightCornerBig.png").x;
@@ -455,7 +491,7 @@ public class commonActions {
 		
 		//Get left most corner coordinate
 		int regionX = uLRWx;
-		int regionY = uLRWy;
+		int regionY = uLRWy+uLRWh;
 		int regionH = (bRRWy+bRRWh)-regionY;
 		int regionW = bRRWx-regionX;
 
@@ -523,10 +559,10 @@ public class commonActions {
 		int bLRWy = setScreenRegion().find(pathRune+"bottomLeftRuneWindow.png").y;
 		int bLRWh = setScreenRegion().find(pathRune+"bottomLeftRuneWindow.png").h;*/
 		
-		int xSSR = getMainRegion.x+440;
-		int ySSR = getMainRegion.y+195;
-		int hSSR = getMainRegion.h-460;
-		int wSSR = getMainRegion.w-875;
+		int xSSR = getMainRegion.x+265;
+		int ySSR = getMainRegion.y+118;
+		int hSSR = getMainRegion.h-175;
+		int wSSR = getMainRegion.w-532;
 		
 		
 		//Get left most corner coordinate
@@ -543,13 +579,13 @@ public class commonActions {
 		returnRegion = new Region[8];
 		
 		Region runeRg = new Region(regionX, regionY, regionW, regionH);		
-		Region runeTitle = new Region(regionX+60, regionY+19, regionW-150, 30);
-		Region runeMainStat = new Region(regionX+(regionW/4)+0, regionY+(regionH/6)+24, regionW-(regionW/4)-130, 30);
-		Region runeMainSubStat = new Region(regionX+(regionW/4)+0, regionY+(regionH/6)+63, regionW-(regionW/4)-130, 30);
-		Region runeSub1 = new Region(regionX+20, regionY+(regionH/6)+113, regionW-200, 27);
-		Region runeSub2 = new Region(regionX+20, regionY+(regionH/6)+143, regionW-200, 27);
-		Region runeSub3 = new Region(regionX+20, regionY+(regionH/6)+173, regionW-200, 27);
-		Region runeSub4 = new Region(regionX+20, regionY+(regionH/6)+203, regionW-200, 27);
+		Region runeTitle = new Region(regionX+0, regionY+10, regionW-50, 30);
+		Region runeMainStat = new Region(regionX+(regionW/4)+0, regionY+(regionH/6)-8, regionW-(regionW/4)-130, 27);
+		Region runeMainSubStat = new Region(regionX+(regionW/4)+0, regionY+(regionH/6)+25, regionW-(regionW/4)-130, 27);
+		Region runeSub1 = new Region(regionX+18, regionY+(regionH/6)+55, regionW-200, 23);
+		Region runeSub2 = new Region(regionX+18, regionY+(regionH/6)+78, regionW-100, 23);
+		Region runeSub3 = new Region(regionX+18, regionY+(regionH/6)+105, regionW-200, 23);
+		Region runeSub4 = new Region(regionX+18, regionY+(regionH/6)+130, regionW-200, 23);
 		getRuneRegion = runeRg;
 		getRuneTitle = runeTitle;
 		getRuneMainStat = runeMainStat;
@@ -559,15 +595,15 @@ public class commonActions {
 		getRuneSub3 = runeSub3;
 		getRuneSub4 = runeSub4;
 		
-/*		getMainRegion.highlight();
-		runeRg.highlight();
-		runeTitle.highlight();
-		runeMainStat.highlight();
-		runeMainSubStat.highlight();
-		runeSub1.highlight();
-		runeSub2.highlight();
-		runeSub3.highlight();
-		runeSub4.highlight();*/
+		//getMainRegion.highlight();
+		//runeRg.highlight();
+		//runeTitle.highlight();
+		//runeMainStat.highlight();
+		//runeMainSubStat.highlight();
+		//runeSub1.highlight();
+		//runeSub2.highlight();
+		//runeSub3.highlight();
+		//runeSub4.highlight();
 		
 		//Obsolete
 		returnRegion[0]=runeRg;
@@ -582,12 +618,15 @@ public class commonActions {
 		return returnRegion;
 	}
     public static boolean waitElementExists(String elementFName) throws Exception{
-    	int timeOut = 1;
+    	int timeOut = 10;
     	int startTime = 0;
     	while (getMainRegion.exists(elementFName)==null){
-    		getMainRegion.wait(0.5);
+    		//getMainRegion.wait(0.5);
     		startTime++;
     		if(startTime==timeOut){
+    			break;
+    		}
+    		if(getMainRegion.exists(elementFName)!=null) {
     			break;
     		}
     	}
@@ -628,13 +667,43 @@ public class commonActions {
     
     public static void existClick(String fileName) throws Exception{
     	if(isExist(fileName)){
-    		focusApp("Mobizen Mirroring");
-    		getMainRegion.find(fileName).click();
-    		System.out.println(fileName);
+    		focusApp("NoxPlayer");
+    		getMainRegion.find(fileName).click();    		
     	}
     }
     
+    public static void waitExistClick(String fileName, Region r, int timeOut) throws Exception{
+    	int ctr=1;
+    	while (!isExist(fileName, r)) {
+    		focusApp("NoxPlayer");
+    		ctr++;
+    		if (ctr>=timeOut) {
+    			break;
+    		}
+    	}    	
+    	
+    	if(isExist(fileName,r)){    	
+    		r.find(fileName).click();
+    		System.out.println(fileName);
+    	}
+    }    
+    
+    public static void clickWaitForNext(String fileName, String expFile) throws Exception {
+    	existClick(fileName);    	
+    	
+    }
+    
     public static boolean isExist(String fileName) throws Exception{
+    	int ctr=1;
+    	int maxctr=1;
+/*    	while(getMainRegion.exists(fileName)==null) {
+    		//s.wait(0.5);
+    		ctr++;
+    		if (ctr>=maxctr) {
+    			break;
+    		}
+    	}*/
+    	
     	if(getMainRegion.exists(fileName)!=null){
     		return true;
     	}
@@ -651,6 +720,24 @@ public class commonActions {
     		return false;
     	}
     }
+
+    public static boolean isExist(String fileName, Region r) throws Exception{
+    	int ctr=1;
+    	int maxctr=5;    	
+    	while(r.exists(fileName)==null) {
+    		s.wait(0.5);
+    		ctr++;
+    		if (ctr>=maxctr) {
+    			break;
+    		}
+    	}    	
+    	if(r.exists(fileName)!=null){
+    		return true;
+    	}
+    	else {
+    		return false;
+    	}
+    }    
     public static Region getImageRegion(String fileName) throws Exception{
     	int getx = getMainRegion.find(fileName).x;
     	int gety = getMainRegion.find(fileName).y;
@@ -686,6 +773,13 @@ public class commonActions {
             System.err.println(ex);
         }
 	}    
+	
+	public static String getCurrentDateTime() {
+		DateFormat dateFormat = new SimpleDateFormat("yyyy/MM/dd HH:mm:ss");
+		Date date = new Date();
+		String returnDateTime = dateFormat.format(date);
+		return returnDateTime;		
+	}
     
 
 }

@@ -11,7 +11,7 @@ public class StartSikuliExecution extends commonActions{
 	static Robot test;
         public static void main(String[] args) throws Exception{            
         	getComProcs.setupBotResolution();
-        	focusApp("Mobizen Mirroring");
+        	focusApp("NoxPlayer");
         	initializeRegions();
         	//getCleanRuneDetails(getRuneRegionCoordinates());
         	//getRuneRegionCoordinates();
@@ -23,21 +23,7 @@ public class StartSikuliExecution extends commonActions{
 //				existClick(pathComDun+"clickGet.png");
 //			}        	
         	String dungeon = returnProperty("DungeonToRun").toString();
-        	switch (dungeon) {
-	        	case "GB10":
-	        		getComProcs.runGB10(Integer.valueOf(returnProperty("DungeonLoop")));
-	        		break;
-	        	case "DB10":
-	        		
-	        	case "NB10":
-	        	
-	        	case "Faimon":
-	        	
-	        	case "SD":
-	        	
-	        	default:
-	        		System.out.println("Under Construction");
-        	}
+ 	        getComProcs.runGB10(Integer.valueOf(returnProperty("DungeonLoop")),dungeon);
         	
 /*        	String getRunes = returnProperty("Runeset");    	        	
         	boolean getRune = sellOrGetRune(getRunes, 
